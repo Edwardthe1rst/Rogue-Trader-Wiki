@@ -1,0 +1,5 @@
+A Flanking [Manoeuvre](rules-combat-overview.md) takes place when a unit attacks the side  of  an  enemy  unit.  With  a  successful Ordinary (+10) Scholastic  Lore  (Tactica  Imperialis)  Test , Challenging (+0) Common Lore (War) Test , or Difficult (-10) Logic Test ,  the  flanking  unit  is  able  to  get  into  position  on  one side of their enemy, catching them off-guard and effectively boxing  the  enemy  in  thus  restricting  their  movement.  A unit  that  has  successfully  flanked  another  unit  deals  +10 additional  [Damage](character-injury.md)  for  1d5  Strategic  Rounds  as  the  enemy unit attempts to reposition to meet the new threat. A failed flanking manoeuvre simply means that the flanking unit was unable  to  get  into  a  suitable  position  and  no  bonuses  are gained. At the GM's discretion however, failure may grant the flanked unit a chance to counterattack (gain a bonus to their [Attack](combat-attack-rules.md)) during the confusion.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 133`
