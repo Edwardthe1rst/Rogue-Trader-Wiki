@@ -1,0 +1,11 @@
+The  psyker's gift usually appears  sometime  during  his adolescence, though this is by no means a certainty. While some will come into their powers at a very young age, others may  never  fully  develop  their  gifts  without  some  form  of traumatic  trigger  event  which  causes  the  breakthrough  of their inherent connection to [The Warp](warp-imperial-space-travel.md). Very few psykers are strong enough to resist the extreme dangers that are part and parcel  of  having  psychic  powers  without  undergoing  the sanctioning  process.  This  is  because  training  in  the  use  of these powers and resisting the temptations of [The Warp](warp-imperial-space-travel.md) and deadly mishap by uncontrolled psychic force is necessary for even the strong of will.  While  a  psyker's  raw  power  tends to be a constant from the first full emergence of his powers, ongoing training allows him to find new ways to utilise and hone his abilities.
+
+The names and titles given to psykers of varying power and ability may change from place to place and by the bias of the observer, but one thing is a certainty-the greater the power,  the  rarer  the  individual,  even  among  this  singular subset of humanity, and the greater the potential danger.
+
+There is a fundamental disagreement over how to codify the power level of psykers, and how this is done can vary both  between  the  colleges  of  the  Scholastica  Psykana  and other academic sources, but the widest accepted measure is a  series  of  Inquisition-approved  'bandings'  of  raw  power. Ranging  from  the  almost  nascent  Omicron  to  the  world shattering power of an Alpha grade psyker, this system is also widely accepted in both The Calixis Sector and the Koronus Expanse; fittingly perhaps given the obsession with power of those figures who strive to control them.## Starting [Psy Rating](talents-descriptions.md)
+
+[Astropaths](psychic-psyker-types.md)  Transcendent  (and  other  psykers  built  with  the rules presented here) start with [Psy Rating](talents-descriptions.md) 2, and may increase this rating over time by spending xp (see Chapter Ii: Career Paths on page 38).
+
+
+
+*Source:* `Roguetrader Corerulebook, pages 157–158`
