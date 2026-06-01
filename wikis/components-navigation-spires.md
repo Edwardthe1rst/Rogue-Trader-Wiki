@@ -1,0 +1,9 @@
+The Navigation spires protrude up as the highest points on the ship. On a capital ship they are fanciful towers of armaplas and steelglass that house the principal Navigator and his kin in  opulent  finery  that  would  shame  a  planetary  governor. Even on humbler vessels the Navigator's quarters are the finest available, including at the very least an exceptionally baroque couch in the observation blister. The view from the spires is often breathtaking. Only here is it possible to appreciate the majestic  sweep  of  the  ship  with  its  myriad  lights  glowing brightly against starry fastness beyond.
+
+Some [Navigators](psychic-psyker-types.md) choose to seclude themselves in their spires for the duration of every voyage, even when the ship is not in [The Warp](warp-imperial-space-travel.md). This is a policy that finds approval with Navy officers worried  about  their  precious  resource  getting  into  trouble. Other Navigators take a perverse pleasure in wandering around the  ship  whenever  they  can.  They  have  'adventures,'  invite random dinner guests to the Navigation spire, and generally delight in inflicting acute apoplexy on their bodyguards.
+
+Regardless of their demeanour, Navigators are treated with almost suffocating levels of deference onboard Navy ships and are  subject  to  censure  only  by  the  master  of  the ship in person. As each cares for the ship in their own  way,  the  [Captain](rank-captain.md)  and  the  Navigator  often forge  a  strong  enough  bond  that  individual idiosyncrasies  are  apt  to  be  viewed  withindulgence. The rest of the crew tend to look up to Navigators with  superstitious  awe  and  do  virtually  anything  to  avoid approaching the haunted spires at the top of their world.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 50`
