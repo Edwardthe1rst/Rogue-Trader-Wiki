@@ -1,0 +1,7 @@
+While [Void Shields](components-void-shields.md) are a more than adequate defence against macrocannon [Shells](weapons-ammunition.md) and lance beams, they are useless against slower-moving attacks such as torpedo salvoes and  bombers.  Consequently,  most  vessels possess  a  number  of  small,  lightweight  [Defensive](weapons-general.md) weapons,  collectively  known  as  turrets,  incapable  of harming a full starship but more than able to destroy enemy [Torpedoes](weapons-torpedoes.md) and [Attack Craft](attack-craft-rules.md).
+
+A  ship's  turrets  work  identically  whether  defending against torpedoes or attack craft.  Before the attacker rolls to score hits the defending vessel may attempt a Ballistic Skill Test using the crew's Skill Rating, with a +5 bonus for every point of Turret Rating the vessel has (the ship must have a Turret rating of at least 1 to attempt this). If successful, then the turrets hit once, plus one additional hit for every two degrees of success, with each hit shooting down a single torpedo or attack craft squadron, reducing the  number  of  torpedoes  in  the  salvo  or  [Attack](combat-attack-rules.md)  craft squadron in the wave before [The Attack](rules-combat-overview.md) roll is made.
+
+Torpedoes shot down are destroyed harmlessly. Attack craft shot down may have merely been disabled or driven off instead of destroyed-see page 16-but, one way or another, can no longer attack.
+
+*Source:* `Battle Fleet of the Koronus, page 13`
