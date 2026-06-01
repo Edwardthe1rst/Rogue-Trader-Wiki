@@ -1,0 +1,7 @@
+In all cases, where fighters are required to [Attack](combat-attack-rules.md) enemy [Small Craft](attack-craft-small-craft.md), both sides make a Challenging (+0) Command+Craft Rating Test (this  will  either  be  from a character aboard the carrier,  or  from  a  character  leading  the  fighters  personally), with the enemy small craft. Both sides gain a +5 bonus for every squadron of friendly fighters after the first. Both sides also gain a +5 bonus for an additional squadron of bombers or assault craft after the first, plus an additional +5 for each additional two [Squadrons](squadrons-overview.md) of bombers or assault craft (as neither bombers nor assault craft are as good at dogfighting as fighters, but are armed and dangerous in numbers). This counts as an Opposed Skill Test, but is not resolved in the same way.
+
+For every degree of success scored on the Test, one opposing squadron  or  torpedo  is  'eliminated;'  destroyed,  damaged  or forced to expend their remaining [Fuel](weapons-ammunition.md) and ammo reserves, and must return to the carrier for rearming and refuelling by the most reasonable direct route. Any remaining squadrons remain in play and can act in later  [Turns](rules-combat-overview.md),  either  breaking  off  and  heading  for their original target, or staying and engaging. However, if one side scores at least four degrees of success more than their
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 13`
