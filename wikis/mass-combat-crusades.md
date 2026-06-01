@@ -1,0 +1,5 @@
+The call to crusade can carry a ship far outside its home sector. A crusade is a righteous event wherein by declaration of  the  Ministorum  and  authority  of  the  Administratum  a fleet  is  gathered  to  conquer  or  eradicate  a  succession  of worlds. Only volunteer crews are sent on crusades, but since the [Captain](rank-captain.md) decides if the crew volunteers, all Navy vessels volunteer by default.
+
+The Lord [Admiral](rank-admiral.md) is left with the difficult task of deciding who should go and who should remain. Adjacent sector fleets contribute  ships  to  the  crusade  if  they  can,  but  balancing the  demands  of  the  Administratum  and  the  needs  of  the battlefleet  is  a  ticklish  business.  In  the  end  a  compromise is  reached wherein no one is happy; the crusade fleet isn't big enough to fulfil the fantasies of the Ministorum and the Lord Admiral is left with a sector fleet only a shadow of its former self.
+
+*Source:* `Battle Fleet of the Koronus, page 53`
