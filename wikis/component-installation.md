@@ -1,0 +1,9 @@
+Spacecraft  are  amongst  the  most  complex  machines  ever devised  by  humanity.  Encompassing  tens  of  thousands  of separate systems, they are regarded by their crews as possessing not only personalities and quirks, but souls. Whether the ship is an aggressive, questing ship of the line or a timid, plodding ore-barge, its masters will ever tinker and polish with its rig in order to obtain prime results.
+
+Key to this process is the installation of ship [Components](starship-anatomy-detailed.md). While there are certain Components that are essential to the running of any ship (void fields, [Plasma Drives](components-plasma-drives.md), [Warp Engines](warp-engines-components.md) and  the  like),  there  are  tens  of  thousands  of  other  systems which can be incorporated into a ship, each of which has an effect on its use and efficacy . The fitting of such Components can depend upon the whims of its master, designer or upon other factors such as the cost and [Availability](economy-availability-rules.md) of parts in a given locale. Many Rogue Traders have inherited a ship loaded with the peculiar affectations of an eccentric previous owner.
+
+In light of this, there are hundreds of shipyards devoted to the removal, repair, overhaul, and fitting of such Components. Within the bounds of the Imperium, these fall into two broad classes:  Adeptus  Mechanicus  facilities,  and  installations  [Run](rules-combat-overview.md) by  other  Imperial  bodies  that  utilise  indentured  tech-priests under the terms of ancient charters. The former are rare, but produce ships and devices of superlative quality . There are only a handful of these within a year's travel from the boundaries of the Koronus Expanse, the most famous being the latticed dockyards in orbit around the Lathe Forge Worlds in The Calixis Sector. There are also countless examples of the latter class of
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 18`
