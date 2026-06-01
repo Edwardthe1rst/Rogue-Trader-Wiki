@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Search — Rogue Trader Compendium</title>
+  <link rel="stylesheet" href="stylesheet.css" />
+</head>
+<body>
+
+  <div id="header-mount"></div>
+
+  <main>
+    <div class="page-wrapper">
+
+      <section class="search-header">
+        <h1>Search the Compendium</h1>
+
+        <div class="search-bar-large">
+          <input
+            type="search"
+            id="search-input"
+            placeholder='Search… use "quotes" for exact match'
+            autocomplete="off"
+            spellcheck="false"
+            aria-label="Search query"
+          />
+          <button id="search-btn" aria-label="Search">Search</button>
+        </div>
+        <p class="search-tips">
+          Tip: Use <strong>"quotes"</strong> for exact phrase search.
+          Typing a heading or page name will auto-redirect.
+          Fuzzy matching is used otherwise.
+        </p>
+      </section>
+
+      <div id="search-status" class="search-status" aria-live="polite" role="status"></div>
+      <div id="search-results" aria-live="polite"></div>
+
+    </div>
+  </main>
+
+  <footer>
+    <p>
+      Rogue Trader Wiki Compendium
+      <span class="divider">•</span>
+      Fan resource for the Warhammer 40,000: Rogue Trader RPG
+    </p>
+  </footer>
+
+  <script src="search.js"></script>
+  <script>
+    document.addEventListener('keydown', function(e) {
+      if (e.key === '/' && !['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
+        e.preventDefault();
+        const inp = document.getElementById('header-search-input');
+        if (inp) inp.focus();
+      }
+    });
+
+    fetch('header.html')
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        const mount = document.getElementById('header-mount');
+        if (mount) {
+          mount.innerHTML = html;
+          mount.querySelectorAll('script').forEach(function(s) {
+            const ns = document.createElement('script');
+            ns.textContent = s.textContent;
+            document.body.appendChild(ns);
+          });
+        }
+      })
+      .catch(function() {
+        console.warn('Could not load header.html');
+      });
+  </script>
+</body>
+</html>
