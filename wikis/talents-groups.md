@@ -1,0 +1,7 @@
+Several Talents represent a general ability that can be applied to  a  specific  category  within  that  group.  As  some  of  these groups have many sub-categories, they have been collected into related groups. When selecting one of these Talents, the player chooses one of the entries from the group. Thus, when selecting the [Peer](talents-descriptions.md) Talent, the Explorer would also choose a specific group or organisation from the Talent group, such as [Peer](talents-descriptions.md) (Astropaths). Each time the Explorer gains the Talent, he may choose a different specialisation, so the next time he selects  it,  he  might  opt  for  Peer  (Adeptus  Mechanicus).  In many cases group listings  are  representative  as  opposed  to all-inclusive. Consequently, even though 'Yeshar Clan' isn't specifically  listed  in  the  Peer  Talent  group,  it  can  still  be chosen with GM approval.
+
+Some  Weapon  Training  Talents  possess  a  group  called 'Universal.' Universal groups apply to several different types of [Weapons](weapons-general.md), allowing a character with this Talent to use many varieties of weaponry without penalty. The Universal group represents the far-reaching and unusual backgrounds of most individuals  that  make  up  a  Rogue  Trader's  dynasty-those who travel the stars have many more opportunities to use a broad assortment of [Gear](equipment-gear.md)!
+
+
+
+*Source:* `Roguetrader Corerulebook, page 91`
