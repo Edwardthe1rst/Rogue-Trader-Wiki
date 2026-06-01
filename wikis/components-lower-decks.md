@@ -1,0 +1,7 @@
+The 'lower decks' or 'below decks' (often  shortened to simply 'low decks') is  a  euphemism for all  the  decks  given  over  to the  organic  functioning  of  the  ship.  Bilges,  sumps,  cisterns, holding  tanks, Reclamation plants, laundries,  hydroponics, battery farms, slaughterhouses, cold storage, kitchens and much of the accommodations are on the lower decks. Most areas are tight  pipe-lined  corridors  and  crawl  spaces  full  of  vapours and extremely pungent smells broken by the occasional wide, low-ceiling chamber. These are given over to specific tasks like corralling a herd of Grox, for [Example](rules-tests.md), or holding bubbling tanks of excrement beneath inexplicably rickety walkways.
+
+Skulduddery and sharp practices are commonplace on the lower decks. This is the part of the ship that truly belongs to the common shipman and if there's a card game, rat race, or maw-fluke fight going on it'll be somewhere on the lower decks. How much leeway the [Captain](rank-captain.md) permits his crew on the lower decks is a finely-judged matter. A happy crew performs its duties well, but lack of discipline and disrespect can quickly breed  mutiny.    Most  [Captains](imperial-starship-types.md)  play  an  elaborate  balancing game between turning  a  [Blind](weapons-general.md)  eye  to  minor  transgressions while brutally enforcing ship law on egregious offenders.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 51`
