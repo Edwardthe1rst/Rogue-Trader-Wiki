@@ -1,0 +1,12 @@
+[Surprise](combat-surprise-rules.md) affects the first Strategic Round in [Large-scale Warfare](mass-combat-rules.md). As in personal [Combat](rules-combat-overview.md), it is up to the GM to determine which units are surprised based on the actions of the PCs and NPCs and the environment in which they are operating. The following are some guidelines for the GM to use when determining surprise.
+
+- Intelligence: A unit [Commander](rank-commander.md) with good intel on the whereabouts of his enemy always has the upper hand, and can allow a unit to manoeuvre into striking position before the enemy is even aware of their presence.
+- Terrain: A canny unit commander can use terrain features to his advantage in attempting to surprise an enemy unit. Ridges, craters, valleys, hills, forests, and mountain ranges can all be used to screen a unit's movement from prying eyes.
+- Weather and Light: Observing a unit's movements at midday on clear, sunny day is much easier than observing them under [Cover](combat-special-circumstances.md) of fog or night. Like terrain, a smart unit commander will move his men with as much cover from natural phenomena as can be found. While inclement weather and the dark of night certainly gives a unit adequate cover to manoeuvre against an enemy, it also makes any actions taken, including movement, that much harder due to limited sight distances and other obstacles.
+- Infiltration and Treachery: Sometimes a units embeds individuals or groups into enemy units to sow confusion and gather intelligence. An individual can pose as any member of an enemy unit and relay important information back to his home unit to give them an edge in a coming combat. An enemy unit that has been infiltrated can make a Scrutiny Test, modified as the GM sees fit, to attempt to find and eliminate the traitors in their midst.
+
+Units can make Awareness Tests using their [Characteristics](starship-anatomy-detailed.md), gaining bonuses for appropriate equipment and suffering penalties for terrain or natural phenomena, to detect approaching units. Using the guidelines laid out above, or any other he sees fit to apply, the GM determines at the beginning of combat which, if any, units are surprised. Any attackers initiating combat with a surprised unit deal +10 additional [Damage](character-injury.md) during the first Strategic Round of combat.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 132`
