@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wiki — Rogue Trader Compendium</title>
+  <link rel="stylesheet" href="stylesheet.css" />
+  <!-- marked.js for Markdown rendering -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+</head>
+<body>
+
+  <div id="header-mount"></div>
+
+  <!-- Link preview tooltip (shared) -->
+  <div id="link-preview" class="link-preview" role="tooltip" aria-hidden="true">
+    <div class="link-preview-title" id="lp-title"></div>
+    <div class="link-preview-body" id="lp-body"></div>
+  </div>
+
+  <main>
+    <div class="page-wrapper">
+      <div class="wiki-layout" id="wiki-layout">
+
+        <!-- Left: Table of Contents -->
+        <aside class="wiki-toc" id="wiki-toc" aria-label="Table of contents">
+          <div class="wiki-toc-title">Contents</div>
+          <ul class="toc-list" id="toc-list"></ul>
+        </aside>
+
+        <!-- Centre: Article -->
+        <article class="wiki-article" id="wiki-article" aria-live="polite">
+          <div class="wiki-loading" id="wiki-status">Loading manuscript…</div>
+        </article>
+
+        <!-- Right: Sidebar -->
+        <aside class="wiki-sidebar-right" id="wiki-sidebar-right" aria-label="Related pages">
+          <!-- Populated by JS -->
+        </aside>
+
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>
+      Rogue Trader Wiki Compendium
+      <span class="divider">•</span>
+      Fan resource for the Warhammer 40,000: Rogue Trader RPG
+      <span class="divider">•</span>
+      Not affiliated with Games Workshop
+    </p>
+  </footer>
+
+  <script src="wiki.js"></script>
+  <script>
+    // Keyboard shortcut: / to focus search
+    document.addEventListener('keydown', function(e) {
+      if (e.key === '/' && !['INPUT','TEXTAREA','SELECT'].includes(document.activeElement.tagName)) {
+        e.preventDefault();
+        const inp = document.getElementById('header-search-input');
+        if (inp) inp.focus();
+      }
+    });
+
+    // Load shared header
+    fetch('header.html')
+      .then(function(r) { return r.text(); })
+      .then(function(html) {
+        const mount = document.getElementById('header-mount');
+        if (mount) {
+          mount.innerHTML = html;
+          mount.querySelectorAll('script').forEach(function(s) {
+            const ns = document.createElement('script');
+            ns.textContent = s.textContent;
+            document.body.appendChild(ns);
+          });
+        }
+      })
+      .catch(function() {
+        console.warn('Could not load header.html');
+      });
+  </script>
+</body>
+</html>
