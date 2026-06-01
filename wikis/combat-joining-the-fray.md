@@ -1,0 +1,5 @@
+Once  the  battle  plans  have  been  laid,  the  troops  briefed, and the armies deployed to their positions, it's time to fight. [Large-scale Warfare](mass-combat-rules.md), with its huge armies and intricate battle formations, is quite different from the fast and deadly closerange individual [Combat](rules-combat-overview.md) that players are used to. It can take hours or days for an army or one of its elements to get into [Attack](combat-attack-rules.md) position due to the ever shifting tactical environment of the battlefield. Scouts are deployed, artillery bombardments called in, camps are built and struck, and this all takes place before the combatants even catch sight of one another. A battle itself can take days or weeks as units [Dig in](combat-dig-in-action.md), environmental conditions impede operations, and fresh reserves are brought in to bolster the flagging belligerents on the battlefield. This all makes for a long, deadly slog toward victory, and requires special time-keeping rules to keep it straight.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 131`
