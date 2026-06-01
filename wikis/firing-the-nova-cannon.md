@@ -1,0 +1,9 @@
+[Nova Cannons](weapons-nova-cannons.md) are extremely powerful [Weapons](weapons-general.md), easily able to wreak vast destruction upon enemy vessels at great range, but are inaccurate and require a stable vessel to fire effectively . Due to the lethal nature of their [Warheads](weapons-warheads.md), nova cannon [Shells](weapons-ammunition.md) are not armed for a fraction of a second after firing, allowing them to  travel  many  tens  of  thousands  of  kilometres  through  the void before they become truly deadly. For these reasons and several others, nova cannons follow a number of specific rules when firing which do not apply to other weapons.
+
+If a ship performs a [Manoeuvre](rules-combat-overview.md) Action with a total modifier of greater than Challenging, it may not fire its Nova Cannon in the same turn. Similarly, a Crippled ship may not fire its nova cannon.  Once a Nova Cannon has fired, its crew must spend the subsequent turn reloading and preparing the weapon for a second firing. This means a Nova Cannon may only fire once every other turn.
+
+When  firing  a  Nova  Cannon,  nominate  a  single  point anywhere within the weapon's maximum range that is more than 6 Void Units from the ship and in the vessel's Fore firing arc. That is the target point. The difficulty of targeting with a nova cannon is such that all [Attack](combat-attack-rules.md) rolls with the weapon suffer an additional -20 penalty. Otherwise, the attack roll is resolved normally using a character's Ballistic Skill during a Shooting Action, including the normal modifiers for range.
+
+A  successful  attack  roll  means  that  the  shot  was  on target and detonates at the desired point. A failed attack roll means that the shot was not on target and has instead detonated too soon or too late. However, such is the power of these weapons that even
+
+*Source:* `Battle Fleet of the Koronus, page 16`
