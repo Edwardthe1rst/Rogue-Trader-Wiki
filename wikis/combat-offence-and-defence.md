@@ -1,0 +1,9 @@
+One important consideration the GM should make is that the number of starships is seldom the most [Accurate](weapons-general.md) measure of how deadly a force is. Instead, the amount of firepower a vessel can bring to bear on one target, and the number of targets the vessel can  effectively  [Attack](combat-attack-rules.md)  are  better  considerations  of  its  offensive power, and the number of shields they possess is a very important consideration when determining a vessel's defensive capabilities.
+
+A vessel  that  has  only  a  single,  slow-firing  weapon,  against one  with  two  void  shields,  is  unlikely  to  be  able  to  harm  its target  reliably ,  as  it  cannot  reasonably  expect  to  overcome  its target's shields, let alone deal significant [Hull](starship-anatomy-detailed.md) or [Critical Damage](character-injury.md). Meanwhile,  a  vessel  with  a  combination  of  [Macrobatteries](starship-supplemental-components.md) and  lances  against  a  poorly-shielded  target  is  likely  to  cause considerable  harm  every  turn,  able  to  overwhelm  shields  andrip  away  chunks  of  hull,  and  even  reliably  cause  Critical  Hits, disabling  Components  and  hindering  a  target's  ability  to  fight back. Broadly speaking, it is most effective to commit at least two [Weapon Systems](weapons-systems-overview.md) to attacking a target, in order to ensure that the enemy's shields are stripped away and at least t some damage can be inflicted.
+
+Another consideration, although one related to this first  point,  is  hull  type  and  appropriate  tactics.    Different hull  types  have  different  weapon  configurations,  different tendencies towards speed and [Armour](armour.md), and different degrees of manoeuvrability.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 116`
