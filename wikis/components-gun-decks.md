@@ -1,0 +1,15 @@
+Engines and reactors of a warship occupy a third of its mass; gun decks usually constitute three quarters of what remains. Even individual macroweapons are giant, housesized affairs covered with gantries, cranes, power lines and pipes with a crew hundreds strong. Lance turrets are even bigger-the [Size](character-traits.md) of a city block with a crew numbering in the thousands. Macroweapons of all kinds are hugely labour-intensive to [Run](rules-combat-overview.md) as few automated systems can be relied upon in battle.
+
+Laser,  melta  and  [Plasma](weapons-general.md)  weapons  are  typically  fed  from generator stacks inside the gunrooms and multi-tonne reaction cells  hoisted  up  from  a  magazine  below .  The  random  power surges  on  these  decks  mean  crewmembers  often  must  wear protective suits to avoid getting burned. Much of the crews' time is occupied reconnecting or replacing [Components](starship-anatomy-detailed.md) or wrestling sparking power lines back into place with insulated gaff-hooks.
+
+Projectile-firing macrocannons require much larger crews to handle and load their enormous [Shells](weapons-ammunition.md) into the waiting breaches.  Macrocannon  crews  also  have  to  contend with sitting  on  top  of  a  magazine  full  of  enough munitions  to  level  a  city.  Many  [Captains](imperial-starship-types.md)  still prefer the reliability of macrocannons despite the medieval toil they inflict on the crew.
+
+Even  after  suffering  punishing  [Damage](character-injury.md),  macrocannons  can still load and fire long after energy weapons fall silent.
+
+Macrocannons tend to be mounted in individual gunrooms to  contain  the  damage  if  their  magazine  explodes.  Energy weapons are normally mounted in multiples on gun decks for greater accessibility. Either environment is a hot, sweaty and dangerous one for the crew. [Crew Quarters](starship-essential-components.md) are usually sparse cells built into the walls or floor of the gun deck and access to  other  areas  of  the  ship  is  strictly  limited.  [Press-ganged](chargen-stage2-origin-path.md) shipmen are most likely to be put to work on a gun battery at first. Simple hard labour and little required experience are needed to haul and push multi-tonne [Ammunition](economy-wealth-and-acquisitions.md) into place.
+
+Each  gun  is  run  by  a  gun  [Captain](rank-captain.md)  and  each  gun  deck  by at  least  one  petty  officer.  An  ensign  or  [Lieutenant](rank-lieutenant.md)  has  nominal charge of the gun deck but are seldom be seen off the [Command Decks](components-command-decks.md)  and  heard  only  as  a  disembodied  voice  over  the  vox casters. The character of the crew and the deck depends on their gun-captain and petty officer. These can be well-respected crew mates that have worked their way up and know how to strike a balance between keeping officers and men happy, or they can be terrifying despots determined to keep discipline at all costs.
+
+
+
+*Source:* `Battle Fleet of the Koronus, page 49`
