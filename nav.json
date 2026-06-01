@@ -1,0 +1,286 @@
+{
+  "nav": [
+    {
+      "label": "Characters",
+      "sections": [
+        {
+          "heading": "Careers",
+          "items": [
+            { "label": "Arch-Militant",          "file": "career-arch-militant.md" },
+            { "label": "Astropath Transcendent", "file": "career-astropath-transcendent.md" },
+            { "label": "Explorator",             "file": "career-explorator.md" },
+            { "label": "Missionary",             "file": "career-missionary.md" },
+            { "label": "Navigator",              "file": "career-navigator.md" },
+            { "label": "Rogue Trader",           "file": "career-rogue-trader.md" },
+            { "label": "Seneschal",              "file": "career-seneschal.md" },
+            { "label": "Void Master",            "file": "career-void-master.md" }
+          ]
+        },
+        {
+          "heading": "Character Creation",
+          "items": [
+            { "label": "Characteristics",        "file": "chargen-stage1-characteristics.md" },
+            { "label": "Origin Path",            "file": "chargen-stage2-origin-path.md" },
+            { "label": "Spend XP",               "file": "chargen-stage3-spend-xp.md" },
+            { "label": "Character Details",      "file": "chargen-stage4-character-details.md" },
+            { "label": "Profit & Ship Points",   "file": "chargen-stage5-profit-and-ship-points.md" },
+            { "label": "Starting Equipment",     "file": "chargen-stage6-equipment.md" }
+          ]
+        },
+        {
+          "heading": "Advancement",
+          "items": [
+            { "label": "Skills",                 "file": "skills-descriptions.md" },
+            { "label": "Talents",                "file": "talents-descriptions.md" },
+            { "label": "Traits",                 "file": "character-traits.md" },
+            { "label": "Psychic Abilities",      "file": "psychic-ability-rules.md" },
+            { "label": "Navigator Powers",       "file": "navigator-powers-list.md" }
+          ]
+        },
+        {
+          "heading": "Character Condition",
+          "items": [
+            { "label": "Injury & Healing",       "file": "character-injury.md" },
+            { "label": "Corruption",             "file": "character-corruption.md" },
+            { "label": "Mutation",               "file": "character-mutation.md" },
+            { "label": "Fear & Damnation",       "file": "character-fear-and-damnation.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Starships",
+      "sections": [
+        {
+          "heading": "Hull Classes",
+          "items": [
+            { "label": "Hulls Overview",         "file": "hulls-overview.md" },
+            { "label": "Transports",             "file": "ships-transports-overview.md" },
+            { "label": "Raiders",                "file": "ships-raiders-overview.md" },
+            { "label": "Frigates",               "file": "ships-frigates-overview.md" },
+            { "label": "Light Cruisers",         "file": "ships-light-cruisers-overview.md" },
+            { "label": "Cruisers",               "file": "ships-cruisers-overview.md" },
+            { "label": "Battlecruisers",         "file": "ships-battlecruisers-overview.md" },
+            { "label": "Grand Cruisers",         "file": "ships-grand-cruisers-overview.md" },
+            { "label": "Battleships",            "file": "ships-battleships-overview.md" }
+          ]
+        },
+        {
+          "heading": "Construction",
+          "items": [
+            { "label": "Ship Construction",      "file": "starship-construction.md" },
+            { "label": "Essential Components",   "file": "starship-essential-components.md" },
+            { "label": "Supplemental Components","file": "starship-supplemental-components.md" },
+            { "label": "Additional Components",  "file": "starship-additional-components.md" },
+            { "label": "Weapons Overview",       "file": "weapons-systems-overview.md" },
+            { "label": "Ship Anatomy",           "file": "starship-anatomy-detailed.md" }
+          ]
+        },
+        {
+          "heading": "Crew & Operations",
+          "items": [
+            { "label": "Crew Population & Morale","file": "starship-crew-population-morale.md" },
+            { "label": "Crew Roles",             "file": "crew-ratings.md" },
+            { "label": "Naval Discipline",       "file": "starship-naval-discipline.md" },
+            { "label": "Watches",                "file": "starship-watches.md" },
+            { "label": "Non-Combat Travel",      "file": "starship-travel-non-combat.md" },
+            { "label": "Salvage Rules",          "file": "starship-salvage-rules.md" }
+          ]
+        },
+        {
+          "heading": "Attack Craft",
+          "items": [
+            { "label": "Attack Craft Rules",     "file": "attack-craft-rules.md" },
+            { "label": "Fighter Operations",     "file": "attack-craft-fighter-operations.md" },
+            { "label": "Bomber Operations",      "file": "attack-craft-bomber-operations.md" },
+            { "label": "Launch Bays",            "file": "launch-bays-overview.md" },
+            { "label": "Squadrons",              "file": "squadrons-overview.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Space Combat",
+      "sections": [
+        {
+          "heading": "Core Rules",
+          "items": [
+            { "label": "Combat Overview",        "file": "starship-combat-rules.md" },
+            { "label": "Fleet Actions",          "file": "starship-fleet-actions.md" },
+            { "label": "Critical Hits",          "file": "starship-critical-hits.md" },
+            { "label": "Destruction Rules",      "file": "starship-destruction-rules.md" },
+            { "label": "NPC Ship Damage",        "file": "starship-npc-ship-damage.md" }
+          ]
+        },
+        {
+          "heading": "Weapons",
+          "items": [
+            { "label": "Macrobatteries",         "file": "weapons-macrobatteries.md" },
+            { "label": "Lances",                 "file": "weapons-lances.md" },
+            { "label": "Nova Cannons",           "file": "weapons-nova-cannons.md" },
+            { "label": "Torpedoes",              "file": "weapons-torpedoes.md" },
+            { "label": "Torpedo Types",          "file": "weapons-torpedo-types.md" },
+            { "label": "Short & Wide Salvos",    "file": "short-and-wide-salvos.md" }
+          ]
+        },
+        {
+          "heading": "Ship Operations",
+          "items": [
+            { "label": "Electronic Warfare",     "file": "shipops-electronic-warfare.md" },
+            { "label": "Planetary Bombardment",  "file": "shipops-planetary-bombardment.md" },
+            { "label": "Artillery Barrage",      "file": "shipops-artillery-barrage.md" },
+            { "label": "Air Strike",             "file": "shipops-air-strike.md" },
+            { "label": "Reconnoitre",            "file": "shipops-reconnoitre.md" },
+            { "label": "Triage",                 "file": "shipops-triage.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Mass Combat",
+      "sections": [
+        {
+          "heading": "Rules",
+          "items": [
+            { "label": "Overview",               "file": "mass-combat-overview.md" },
+            { "label": "Rules",                  "file": "mass-combat-rules.md" },
+            { "label": "Unit Types",             "file": "mass-combat-unit-types.md" },
+            { "label": "Unit Characteristics",   "file": "mass-combat-unit-characteristics.md" },
+            { "label": "Attacking Units",        "file": "mass-combat-attacking-units.md" },
+            { "label": "Special Abilities",      "file": "mass-combat-special-abilities.md" },
+            { "label": "Special Rules",          "file": "mass-combat-special-rules.md" }
+          ]
+        },
+        {
+          "heading": "Campaigns",
+          "items": [
+            { "label": "Waging War",             "file": "mass-combat-waging-war.md" },
+            { "label": "Planetary Invasion",     "file": "mass-combat-planetary-invasion.md" },
+            { "label": "Strategic Goals",        "file": "mass-combat-strategic-goals.md" },
+            { "label": "Theatre",                "file": "mass-combat-theatre.md" },
+            { "label": "Endeavours",             "file": "mass-combat-endeavours.md" },
+            { "label": "Mustering Troops",       "file": "mass-combat-mustering-troops.md" },
+            { "label": "Outfitting Forces",      "file": "mass-combat-outfitting-forces.md" },
+            { "label": "Transporting Forces",    "file": "mass-combat-transporting-deploying-forces.md" }
+          ]
+        },
+        {
+          "heading": "Unit Reference",
+          "items": [
+            { "label": "Infantry",               "file": "unit-infantry-pl4.md" },
+            { "label": "Cavalry",                "file": "unit-cavalry-pl4.md" },
+            { "label": "Mechanised Infantry",    "file": "unit-mechanised-infantry-pl5.md" },
+            { "label": "Artillery",              "file": "unit-artillery-pl6.md" },
+            { "label": "Armour",                 "file": "unit-armour-pl7.md" },
+            { "label": "Air Forces",             "file": "unit-air-forces-pl8.md" },
+            { "label": "Anti-Air Forces",        "file": "unit-anti-air-forces.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Factions",
+      "sections": [
+        {
+          "heading": "Xenos",
+          "items": [
+            { "label": "Xenos Overview",         "file": "faction-xenos-overview.md" },
+            { "label": "Eldar",                  "file": "faction-eldar-overview.md" },
+            { "label": "Orks",                   "file": "faction-ork-overview.md" },
+            { "label": "Rakgol",                 "file": "faction-rakgol-overview.md" },
+            { "label": "Stryxis",                "file": "faction-stryxis-overview.md" },
+            { "label": "Kroot",                  "file": "faction-kroot-overview.md" }
+          ]
+        },
+        {
+          "heading": "Faction Special Rules",
+          "items": [
+            { "label": "Eldar Special Rules",    "file": "faction-eldar-special-rules.md" },
+            { "label": "Eldar Holofields",       "file": "faction-eldar-holofields-special.md" },
+            { "label": "Ork Special Rules",      "file": "faction-ork-special-rules.md" },
+            { "label": "Rakgol Special Rules",   "file": "faction-rakgol-special-rules.md" },
+            { "label": "Stryxis Special Rules",  "file": "faction-stryxis-special-rules.md" }
+          ]
+        },
+        {
+          "heading": "NPC Vessels",
+          "items": [
+            { "label": "NPC Starships",          "file": "ships-npc-starships.md" },
+            { "label": "Chaos Reavers",          "file": "ships-chaos-reavers.md" },
+            { "label": "Ork Roks & Scrap Fleets","file": "ships-ork-roks-and-scrap-fleets.md" },
+            { "label": "Eldar Craftworld Ships", "file": "ships-eldar-craftworld.md" },
+            { "label": "Stryxis Ships",          "file": "ships-stryxis.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "The Warp",
+      "sections": [
+        {
+          "heading": "Warp Travel",
+          "items": [
+            { "label": "Imperial Space Travel",  "file": "warp-imperial-space-travel.md" },
+            { "label": "Warp Drive Rules",       "file": "warp-drive-rules.md" },
+            { "label": "Warp Navigation",        "file": "warp-travel-navigation.md" },
+            { "label": "Gellar Fields",          "file": "warp-gellar-fields.md" },
+            { "label": "Space Hulks",            "file": "warp-space-hulks.md" }
+          ]
+        },
+        {
+          "heading": "Phenomena & Hazards",
+          "items": [
+            { "label": "Psychic Phenomena",      "file": "psychic-phenomena-table.md" },
+            { "label": "Celestial Phenomena",    "file": "rules-celestial-phenomena.md" },
+            { "label": "Complications",          "file": "rules-complications.md" },
+            { "label": "Misfortunes",            "file": "rules-misfortunes.md" }
+          ]
+        },
+        {
+          "heading": "Psykers",
+          "items": [
+            { "label": "Psychic Ability Rules",  "file": "psychic-ability-rules.md" },
+            { "label": "Psyker Types",           "file": "psychic-psyker-types.md" },
+            { "label": "Disciplines",            "file": "psychic-disciplines-list.md" },
+            { "label": "Navigator Gene Rules",   "file": "navigator-gene-rules.md" },
+            { "label": "Navigator Warp Eye",     "file": "navigator-warp-eye.md" }
+          ]
+        }
+      ]
+    },
+    {
+      "label": "Economy & Campaign",
+      "sections": [
+        {
+          "heading": "Wealth",
+          "items": [
+            { "label": "Profit Factor",          "file": "economy-profit-factor.md" },
+            { "label": "Acquisitions",           "file": "economy-acquisition-rules.md" },
+            { "label": "Availability",           "file": "economy-availability-rules.md" },
+            { "label": "Influence",              "file": "economy-influence-rules.md" },
+            { "label": "Backing",                "file": "economy-backing.md" },
+            { "label": "Men of Quality",         "file": "economy-men-of-quality.md" }
+          ]
+        },
+        {
+          "heading": "Endeavours",
+          "items": [
+            { "label": "Endeavours Overview",    "file": "economy-endeavours.md" },
+            { "label": "Rewards",                "file": "economy-rewards.md" },
+            { "label": "Working as Mercenary",   "file": "economy-working-as-mercenary.md" },
+            { "label": "Allies, Enemies & Rivals","file": "rules-allies-enemies-rivals.md" }
+          ]
+        },
+        {
+          "heading": "Ranks & Command",
+          "items": [
+            { "label": "Battlefleet Overview",   "file": "ranks-battlefleet-overview.md" },
+            { "label": "Commissioned Officers",  "file": "ranks-commissioned-officers.md" },
+            { "label": "Warrant Officers",       "file": "ranks-warrant-officers.md" },
+            { "label": "Honourifics & Special",  "file": "ranks-honourifics-and-special.md" }
+          ]
+        }
+      ]
+    }
+  ]
+}
