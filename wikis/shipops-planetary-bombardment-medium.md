@@ -1,0 +1,7 @@
+By turning their massive [Lances](starship-supplemental-components.md) and batteries of macrocannons on a planet and unleashing a storm of deadly ordnance, a ship can perform  a  Planetary  Bombardment.  Unspeakably  devastating, a  planetary  bombardment from a single ship can lay waste to armies  and  cities,  while  a  concentrated  bombardment  from  a battle group can turn an entire continent to ash. Thus, calling in a [Planetary Bombardment](shipops-planetary-bombardment.md) should be left up to the Explorers.
+
+Calling  in  a  Planetary  Bombardment  requires  an  orbiting voidship to enter a dangerously low orbit and hold steady over its target. Once in position, the ship needs to make an Arduous (-40) Pilot: Space Craft T est and an Arduous (-40) Ballistic Skill  T est for  the  bombardment  to  succeed.  If  both  Tests  are successful,  the  bombardment  hits  its  intended  target.  If  one  or both Tests fail, tally up the total number of degrees of failure and consult the [Scatter](weapons-general.md) diagram on page 248 of the Rogue TRadeR core  rulebook.  The  [Attack](combat-attack-rules.md)  will  strike  a  target  in  the  direction indicated by the scatter diagram a number of kilometres equal to the total number of degrees of failure plus 2d10 away from the intended target.
+
+For information, see the Planetary Bombardment sidebar.
+
+*Source:* `Battle Fleet of the Koronus, page 136`
