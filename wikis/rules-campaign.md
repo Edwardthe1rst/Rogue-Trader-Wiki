@@ -1,0 +1,3 @@
+Campaigns are medium intensity conflicts that take place across one  or  two  star  systems.  Equivalent  to  Greater  [Endeavours](economy-endeavours.md), campaigns require a significantly larger investment of time and resources. Campaigns have 2-4 [Strategic Goals](mass-combat-strategic-goals.md) and 6-9 tactical and [Logistics Objectives](mass-combat-logistics-objectives.md). They can take up to two or three years to  complete,  and  cost    2-5  Profit  Factor.  Campaigns  require 1,800 Achievement Points, and increase [Profit Factor](economy-wealth-and-acquisitions.md) by 3-6.
+
+*Source:* `Battle Fleet of the Koronus, page 139`
