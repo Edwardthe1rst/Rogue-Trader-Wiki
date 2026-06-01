@@ -1,0 +1,202 @@
+<!-- ============================================================
+     WARHAMMER 40K ROGUE TRADER WIKI — SHARED HEADER
+     Include this via: fetch('header.html').then(...)
+     Nav items are driven by nav.json — edit that file to add/remove
+     dropdown entries without touching this file.
+     ============================================================ -->
+<header id="site-header">
+  <div class="header-inner">
+
+    <!-- Logo -->
+    <a href="home.html" class="header-logo">
+      <span class="logo-text">
+        Rogue Trader
+        <span>Wiki Compendium</span>
+      </span>
+    </a>
+
+    <!-- Main Nav — populated by buildNav() below -->
+    <nav class="header-nav" id="main-nav" aria-label="Main navigation">
+    </nav>
+
+    <!-- Right side: search + bookmarks -->
+    <div class="header-right">
+
+      <form class="header-search" id="header-search-form" role="search">
+        <input
+          type="search"
+          id="header-search-input"
+          placeholder="Search the wiki…"
+          aria-label="Search"
+          autocomplete="off"
+        />
+        <button type="submit" aria-label="Submit search">⌕</button>
+      </form>
+
+      <div style="position:relative;">
+        <button class="bookmarks-btn" id="bookmarks-toggle" aria-label="Bookmarks" title="Bookmarks">
+          ✦
+        </button>
+        <div class="bookmarks-panel" id="bookmarks-panel" role="dialog" aria-label="Bookmarks">
+          <div class="bookmarks-panel-header">
+            <span>Bookmarks</span>
+            <button id="bookmark-current" class="bookmark-current-btn" title="Bookmark this page">+ Bookmark</button>
+          </div>
+          <div class="bookmarks-list" id="bookmarks-list">
+            <div class="bookmark-empty" id="bookmarks-empty">No bookmarks yet.</div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</header>
+
+<script>
+(function() {
+
+  // ── Nav builder ──────────────────────────────────────────
+  function buildNav(navData) {
+    const nav = document.getElementById('main-nav');
+    if (!nav) return;
+    const allPagesLink = nav.querySelector('a[href="search.html"]');
+
+    navData.forEach(function(menu) {
+      const item = document.createElement('div');
+      item.className = 'nav-item';
+
+      const btn = document.createElement('button');
+      btn.className = 'nav-btn';
+      btn.setAttribute('aria-haspopup', 'true');
+      btn.textContent = menu.label;
+      item.appendChild(btn);
+
+      const dropdown = document.createElement('div');
+      dropdown.className = 'nav-dropdown';
+      dropdown.setAttribute('role', 'menu');
+
+      menu.sections.forEach(function(section) {
+        const heading = document.createElement('div');
+        heading.className = 'dropdown-section';
+        heading.textContent = section.heading;
+        dropdown.appendChild(heading);
+
+        section.items.forEach(function(link) {
+          const a = document.createElement('a');
+          a.href = 'wiki.html?file=wikis/' + encodeURIComponent(link.file);
+          a.setAttribute('role', 'menuitem');
+          a.textContent = link.label;
+          dropdown.appendChild(a);
+        });
+      });
+
+      item.appendChild(dropdown);
+      nav.insertBefore(item, allPagesLink);
+    });
+  }
+
+  fetch('nav.json')
+    .then(function(r) { return r.json(); })
+    .then(function(data) { buildNav(data.nav); })
+    .catch(function(err) { console.warn('Could not load nav.json:', err); });
+
+  // ── Search form ──────────────────────────────────────────
+  const form = document.getElementById('header-search-form');
+  const input = document.getElementById('header-search-input');
+  if (form) {
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      const q = input.value.trim();
+      if (q) window.location.href = 'search.html?q=' + encodeURIComponent(q);
+    });
+  }
+
+  // ── Bookmarks ────────────────────────────────────────────
+  const STORAGE_KEY = 'rt_wiki_bookmarks';
+
+  function getBookmarks() {
+    try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+    catch { return []; }
+  }
+
+  function saveBookmarks(bm) {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(bm));
+  }
+
+  function renderBookmarks() {
+    const list = document.getElementById('bookmarks-list');
+    const empty = document.getElementById('bookmarks-empty');
+    if (!list) return;
+    const bm = getBookmarks();
+    // Remove existing items
+    Array.from(list.querySelectorAll('.bookmark-item')).forEach(n => n.remove());
+    if (bm.length === 0) {
+      if (empty) empty.style.display = '';
+    } else {
+      if (empty) empty.style.display = 'none';
+      bm.forEach(function(item, i) {
+        const div = document.createElement('div');
+        div.className = 'bookmark-item';
+        div.innerHTML =
+          '<a href="' + item.url + '" title="' + item.title + '">' + item.title + '</a>' +
+          '<button class="bookmark-remove" data-index="' + i + '" title="Remove">✕</button>';
+        list.appendChild(div);
+      });
+      list.querySelectorAll('.bookmark-remove').forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          const idx = parseInt(btn.getAttribute('data-index'));
+          const bm2 = getBookmarks();
+          bm2.splice(idx, 1);
+          saveBookmarks(bm2);
+          renderBookmarks();
+        });
+      });
+    }
+  }
+
+  // Toggle panel
+  const toggle = document.getElementById('bookmarks-toggle');
+  const panel  = document.getElementById('bookmarks-panel');
+  if (toggle && panel) {
+    toggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      panel.classList.toggle('open');
+      if (panel.classList.contains('open')) renderBookmarks();
+    });
+    document.addEventListener('click', function(e) {
+      if (!panel.contains(e.target) && e.target !== toggle) {
+        panel.classList.remove('open');
+      }
+    });
+  }
+
+  // Bookmark current page
+  const bookmarkBtn = document.getElementById('bookmark-current');
+  if (bookmarkBtn) {
+    function refreshBookmarkBtn() {
+      const url  = window.location.href;
+      const bm   = getBookmarks();
+      const exists = bm.some(function(b) { return b.url === url; });
+      bookmarkBtn.classList.toggle('bookmarked', exists);
+      bookmarkBtn.textContent = exists ? '✓ Bookmarked' : '+ Bookmark';
+    }
+    refreshBookmarkBtn();
+
+    bookmarkBtn.addEventListener('click', function() {
+      const url   = window.location.href;
+      const title = document.title || url;
+      let bm = getBookmarks();
+      const idx = bm.findIndex(function(b) { return b.url === url; });
+      if (idx >= 0) {
+        bm.splice(idx, 1);
+      } else {
+        bm.unshift({ url: url, title: title });
+        if (bm.length > 50) bm = bm.slice(0, 50);
+      }
+      saveBookmarks(bm);
+      refreshBookmarkBtn();
+      renderBookmarks();
+    });
+  }
+})();
+</script>
