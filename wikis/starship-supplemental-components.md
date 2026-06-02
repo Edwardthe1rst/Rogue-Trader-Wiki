@@ -384,3 +384,207 @@ Slave  and  Brute  Barracks: Although  unlikely,  should  this  ship  be involve
 [Stowage Bays](ships-npc-vessels.md): Stryxis  ships  often  have  massive  holds,  though the  chances  they  are  full  of  junk  is  quite  likely .  If  this  ship is  captured  with  this  Component  intact,  the  captors  gain 1d100 Achievement Points towards any Objective they may be working on.
 
 *Source:* `Battle Fleet of the Koronus, page 97`
+
+
+# Supplemental Components
+
+## Table of Contents
+  - [Macrobatteries](#macrobatteries)
+    - [Jovian-pattern Missile Battery](#jovian-pattern-missile-battery)
+    - [Lathe-pattern Grav-culverin Broadside](#lathe-pattern-grav-culverin-broadside)
+    - [Mezoa-pattern Macrocannons](#mezoa-pattern-macrocannons)
+    - [Pyros Melta-cannons](#pyros-melta-cannons)
+    - [Sunsear Las-broadside](#sunsear-las-broadside)
+  - [Lances](#lances)
+    - [Sunhammer Lance](#sunhammer-lance)
+    - [Sunhammer Lance Battery](#sunhammer-lance-battery)
+  - [Cargo and Passenger Compartments](#cargo-and-passenger-compartments)
+    - [Shadowblind Bays](#shadowblind-bays)
+    - [Xenos Habitats](#xenos-habitats)
+  - [Augments and Enhancements](#augments-and-enhancements)
+    - [Auxiliary Plasma Banks](#auxiliary-plasma-banks)
+    - ['Storm' Drop Pod Launch Bays](#storm-drop-pod-launch-bays)
+    - [Empyrean Mantle](#empyrean-mantle)
+    - [Reinforced Prow](#reinforced-prow)
+  - [Additional Facilities](#additional-facilities)
+    - [Arboretum](#arboretum)
+    - [Asteroid Mining Facility](#asteroid-mining-facility)
+    - [Astropathic Choir-chambers](#astropathic-choir-chambers)
+    - [Broadband Hymn-casters](#broadband-hymn-casters)
+
+
+
+A  bridge  favoured  by  the  Explorators  of  the  Mechanicus, its  cogitation  circuitry  provides  optimum  interface  with hololithic charts and auger arrays.
+
+Long Range Scanning: This ship gains +5 Detection when using Active Augury.
+
+Navigation Records: When working towards an Exploration objective, the players earn an additional 50 Endeavour Points.
+
+## Macrobatteries
+
+Bunks,  mess-halls,  and  other  living  arrangements  for  the countless thousands aboard a starship.
+
+### Jovian-pattern Missile Battery
+
+The ship's crew is made up of a 'kin-brotherhood' of bonded voidsmen. Tenaciously loyal, they see their ship as no different than a homeworld, and will die to defend it.
+
+For Hearth and Home!: All Command Tests to defend against boarding and hit and run actions gain +5. In addition, all sources of Morale loss are reduced by 1, to a minimum of 1.
+
+### Lathe-pattern Grav-culverin Broadside
+
+While the ship has regular quarters for its crew, this ship also has ranks of cyro-stasis tubes filling its deep chambers. Here the captain stores 'surplus' crew...until they are needed. This component does include regular crew quarters, in addition to the cryo-stasis tubes.
+
+Manpower  Reserves: Once  per  game  session,  the  ship's captain may choose to reduce one source of Crew Population loss to zero.
+
+157### Mezoa-pattern Macrocannons
+
+Supplemental Components are not strictly 'required' to operate a starship,  but  do  enhance  and  augment a starship's performance. Unlike Essential Components, multiples of the same type of Component or even duplicates of the same Component may be installed on the same ship, unless specifically stated otherwise.
+
+As is mentioned on page 202 of the ROGUE T OGUE T OGUE RADER Core Rulebook, when installing Weapon Components, they must be placed in one of the starship's W eapon Capacity slots. For example, a starship that has a W eapon Capacity of Dorsal 1 and Prow 1 can have one dorsal weapon and one prow weapon, no more.
+
+If  a  lance  weapon  is  installed  on  a  vessel  of  frigate  size or smaller, (transports and raiders, for example), it must be installed in a prow weapon slot. Prow weapons on a frigate, transport, or raider may only be fired to the fore fire arc. Prow weapons on ships of a light cruiser size and larger may be fired to the fore, port, and starboard arc.
+
+### Pyros Melta-cannons
+
+Macrobatteries  are  similar  to  many  types  of  ground-based artillery, but much, much larger. They fire massive ordinance over  tens  of  thousands  of  kilometres  in  huge  salvos,  to overwhelm their targets.
+
+### Sunsear Las-broadside
+
+This unusual weapon system relies on medium-ranged missile pods  rather  than  more  'conventional'  macro-batteries.  The pods are mostly outside the hull and can fire all their missiles in one immediate, devastating salvo, an advantage tempered by the lengthy time it takes to reload them.
+
+Labour Intensive: This Weapon Component may only fire every other turn.
+
+## Lances
+
+The strange orbital dance of the three planetoids that make up the Lathe forgeworlds has given the magos there a unique insight into the ancient art of grav-weaponry, using strange forces  to  hurl  warheads  at  tremendous  speeds.  Due  to  the unique  methods  of  propulsion,  variant  warheads  can  also be fired through the grav-culverin, including self-propelled ordinance for greater range.
+
+Broadside: This weapon Component must occupy a Port or Starboard Weapon Capacity slot.
+
+Self-propelled warhead: Before firing this weapon, the firer may choose to increase the range of this weapon by 2 VUs. If he does so, the damage of each shot is decreased to 1d10+1.
+
+### Sunhammer Lance
+
+The  forge  world  of  Mezoa  has  long  advocated a  modification  of  the  standard  Mars-pattern Macrocannons to increase damage at the cost of range and space.
+
+158
+
+![image](../images/roguetrader_intothestorm_page_159_img_1.png)
+
+### Sunhammer Lance Battery
+
+These  squat,  oversized,  and  highly  insulated  macrocannon are designed specifically to fire shells tipped with powerful melta-charges that detonate with furious heat.
+
+Inferno: Whenever  this  Weapon  Component  inflicts  a Critical Hit, it is automatically a Fire! Critical.
+
+## Cargo and Passenger Compartments
+
+With  enough  power,  a  ship  of  the  line  can  mount  entire broadsides of long ranged laser weaponry, giving it impressive offensive reach.
+
+Broadside: This weapon Component must occupy a Port or Starboard Weapon Capacity slot.
+
+### Shadowblind Bays
+
+Lances are mighty beams of energy generated by dozens of projectors,  designed  to  circumvent  a  starship's  armour  by cutting straight through it.
+
+### Xenos Habitats
+
+Narrowing the focus aperture on the STC Titanforge allowed the Lathes to boost range without unduly decreasing its power.
+
+## Augments and Enhancements
+
+A  single  Sunhammer  lance  proved  successful  enough  that they have also been constructed in batteries.Table 4-2: Lances and Macrobatteries
+
+| Supplemental Components       | Appropriate Hull Types   | Power          | Space          | SP             | Strength       | Damage         | Crit Rating    | Range          |
+|-------------------------------|--------------------------|----------------|----------------|----------------|----------------|----------------|----------------|----------------|
+| Macrobatteries                | Macrobatteries           | Macrobatteries | Macrobatteries | Macrobatteries | Macrobatteries | Macrobatteries | Macrobatteries | Macrobatteries |
+| Jovian Missile Battery        | All Ships                | 3              | 1              | 1              | 5              | 1d10+1         | 6              | 6              |
+| Lathe Grav-culverin Broadside | Light Cruisers, Cruisers | 5              | 5              | 1              | 6              | 1d10+3         | 6              | 5              |
+| Mezoa Macrocannons            | All Ships                | 4              | 4              | 1              | 4              | 1d10+3         | 5              | 5              |
+| Pyros Melta-cannons           | All Ships                | 4              | 3              | 2              | 3              | 1d10+4         | 4              | 4              |
+| Sunsear Las-broadside         | Light Cruisers, Cruisers | 9              | 6              | 1              | 6              | 1d10+2         | 4              | 9              |
+| Lances                        | Lances                   | Lances         | Lances         | Lances         | Lances         | Lances         | Lances         | Lances         |
+| Sunhammer Lance               | All Ships                | 9              | 4              | 2              | 1              | 1d10+3         | 3              | 9              |
+| Sunhammer Lance Battery       | All Ships                | 13             | 6              | 2              | 2              | 1d10+3         | 3              | 9              |
+
+### Auxiliary Plasma Banks
+
+Such components are vital for any Rogue Trader who wishes to earn wealth through trade or criminal enterprise.
+
+### 'Storm' Drop Pod Launch Bays
+
+Behind  and  beneath  each  standard  cargo  bay  is  hidden  a second, 'mirror hold,' void-shielded and static-screened against any prying auspexes.
+
+Mirror  Bays: When  working  towards  a  Trade  objective,  the players earn an additional 50 Achievement Points. When working towards a Criminal objective, the players earn an additional 75 Achievement Points. Location of these bays when their systems are engaged requires an Arduous (-40) Scrutiny Test .
+
+### Empyrean Mantle
+
+Dealing with xenos is dire heresy to the Imperium-not that a  Rogue  Trader  would  let  that  stand  in  the  way  of  profit. Quarters that can simulate the environments of alien worlds can further facilitate relations.
+
+Comfortable  atmosphere: All  Charm  and  Inquiry  Tests made with xenos aboard this vessel gain a +10 bonus. All Objectives  for  Endeavours  involving  non-hostile  dealings with xenos races gain an additional 50 Achievement Points. Suspicious: Most  Imperial  citizens  are  taught  from  birth  to distrust the xenos. Decrease the ship's Morale permanently by 2.
+
+### Reinforced Prow
+
+There  are  countless  devices  and  systems  for  boosting  a starship's performance, protecting it against danger, or aiding it in the completion of its missions.
+
+## Additional Facilities
+
+A ship's drive can produce more power if equipped with extra banks  of  plasma  generation  and  containment  systems.  Of course, there is a danger associated with housing additional hab-block sized containers of plasma aboard a starship.
+
+Volatile  Power: This  Component  generates  power,  rather than requiring it. If this Component is ever damaged, the ship containing it takes 1d5 damage directly to Hull Integrity, and its plasma drive is set on fire.
+
+### Arboretum
+
+Honeycomb launch structures cluster along the vessel's keel, ready to spit drop pods full of assault forces on helpless planets below . Steel  Rain: When  working  towards  a  Military  objective, the players earn an additional 50 Endeavour Points towards completing that objective.
+
+Drop Pod Deployment: The players may use drop pods (see page 182). The 'Storm' design is equipped to hold 20 pods, although it may only launch 10 every 30 minutes or so (in other words, it may launch 10 pods every Strategic Turn). The pods must be recovered from the planet's surface before being reused.
+
+### Asteroid Mining Facility
+
+Most dirt-dwellers would find the idea of hiding something as large as a starship to be ridiculous. Of course, most dirt-dwellers have no idea just how utterly vast space is. With the right energy baffles and screens to diffuse and mask energy signatures, a ship can become nothing more than a hole in the void.
+
+Shadow in the Void: When travelling on Silent Running, all Tests to detect this vessel have their Difficulty increased by two degrees. When completing a Criminal objective, the players earn an additional 50 Endeavour Points.
+
+External: This  Component  does  not  require  hull  space. Although it is external, it can only be destroyed or damaged by a Critical Hit.
+
+### Astropathic Choir-chambers
+
+Though  not  as  imposing  as  the  titanic  adamantium  beaks of cruisers,  a  reinforced  prow can offer crucial protection to smaller  vessels,  or  any  ship  that  wishes  to  mount  forwardfacing weaponry.
+
+Adamantine Plates: This ship gains +2 Armour in its front arc only . This ship also does 1d5 additional damage when ramming.| Table 4-3: Supplemental Components                             | Table 4-3: Supplemental Components                             |                                        | Space                                  |                                        |
+|----------------------------------------------------------------|----------------------------------------------------------------|----------------------------------------|----------------------------------------|----------------------------------------|
+| Supplemental Components                                        | Appropriate Hull Types                                         |                                        | Space                                  |                                        |
+| Macrobatteries                                                 | Macrobatteries                                                 |                                        |                                        |                                        |
+| -ovian Missile Battery                                         | All Ships                                                      | 3                                      | 1                                      | 1                                      |
+| /athe Grav-culverin Broadside                                  | /ight Cruisers, Cruisers                                       | 5                                      | 5                                      | 1                                      |
+| Me]oa Macrocannons                                             | All Ships                                                      | 4                                      |                                        | 1                                      |
+| Pyros Melta-cannons                                            | All Ships                                                      | 4                                      | 3                                      | 2                                      |
+| Sunsear /as-broadside                                          | All Ships                                                      | 9                                      | 6                                      | 1                                      |
+| Lances                                                         | Lances                                                         | Lances                                 | Lances                                 | Lances                                 |
+| Sunhammer /ance Weapon                                         | All Ships                                                      | 9                                      | 4                                      | 2                                      |
+| Sunhammer /ance Battery                                        | All Ships                                                      | 13                                     | 4                                      | 2                                      |
+| Cargo Holds and Passenger Compartments                         | Cargo Holds and Passenger Compartments                         | Cargo Holds and Passenger Compartments | Cargo Holds and Passenger Compartments | Cargo Holds and Passenger Compartments |
+| Shadowblind Bays                                               | All Ships                                                      | 3                                      | 4                                      | 2                                      |
+| ;enos Habitats                                                 | All Ships                                                      | 2                                      | 1                                      | 1                                      |
+| Augments and Enhancements                                      | Augments and Enhancements                                      | Augments and Enhancements              | Augments and Enhancements              | Augments and Enhancements              |
+| Auxiliary Plasma Banks                                         | Transports, Raiders, Frigates                                  | 8 generated                            | 5                                      | 1                                      |
+|                                                                | /ight Cruisers, Cruisers                                       | 10 generated                           | 6                                      | 1                                      |
+| Drop Pod /aunch Bays                                           | All Ships                                                      | 1                                      | 3                                      | 2                                      |
+| Empyrean Mantle                                                                 | Transports, Raiders, Frigates                                  | 3                                      | 0                                      | 2                                      |
+|                                                                | /ight Cruisers, Cruisers                                       | 5                                      | 0                                      | 2                                      |
+| Reinforced Prow                                                                 | Transports, Raiders, Frigates                                  | 0                                      | 2                                      | 1                                      |
+|                                                                | /ight Cruisers, Cruisers                                       | 0                                      | 3                                      | 1                                      |
+| Additional Facilities                                          | Additional Facilities                                          | Additional Facilities                  | Additional Facilities                  | Additional Facilities                  |
+| Arboretum                                                      | Transports, Raiders, Frigates                                  | 2                                      | 2                                      | 1                                      |
+|                                                                | /ight Cruisers, Cruisers                                       | 2                                      | 3                                      | 1                                      |
+| Asteroid Mining Facility                                       | All Ships                                                      | 6                                      | 10                                     | 3                                      |
+| Astropathic Choir-chambers                                     | All Ships                                                      | 1                                      | 1                                      | 1                                      |
+| Broadband Hymn-casters                                         | All Ships                                                      | 3                                      | 0                                      | 1                                      |
+| † 7KLV FRPSRQHQW PD\ QRW EH VHOHFWHG PRUH WKDQ RQFH SHU YHVVHO | † 7KLV FRPSRQHQW PD\ QRW EH VHOHFWHG PRUH WKDQ RQFH SHU YHVVHO |                                        |                                        |                                        |
+
+### Broadband Hymn-casters
+
+There are a wide variety of Components that serve a multitude of varying purposes aboard a starship. Each of the following Components may only be added to a starship once unless specified otherwise.
+
+
+
+*Source:* `Into the Storm, pages 158–161`
