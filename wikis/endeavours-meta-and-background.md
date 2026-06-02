@@ -1,0 +1,30 @@
+In the course of his explorations, a Rogue Trader is going to find himself in situations that simply cannot, or should not, be solved by either brute force or sheer wealth. Lengthy, delicate negotiations, making initial contact with new worlds, and formal state galas thrown by planetary governors are just a few examples of where interaction and knowledge skills come into play . Skills like Charm and Blather allow the character to solve a problem with wit and fast talking, while Command and Intimidate allow a character to control a situation through sheer force of will.
+
+The difficulty for Interaction Tests is dictated by a number of variables as set by the Game Master. The most important factors, however, are the way in which the NPC is disposed toward the player, and how the final result will affect the NPC. The NPC's disposition determines the base difficulty for any Interaction Test. Other factors such as atmosphere, situation and an NPC's particular circumstances can adjust the difficulty up or down as the GM sees fit. Table 7-1: Dispositions (for convenience,  this  Table  has  been  reprinted  from  page  293 of ROGUE TRADER )  provides  sample  dispositions  based  on specific Interaction Tests with corresponding difficulties. Once| Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   | Table 7-1: Dispositions   |
+|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|---------------------------|
+| Difficulty                | Modifier                  | Barter                    | Blather                   | Charm                     | Command                   | Deceive                   | Intimidate                |
+| Easy                      | 30                        | Spendthrift               | Effusive                  | Infatuated                | Fanatical                 | Gullible                  | Terrified                 |
+| Routine                   | 20                        | /avish                    | /oquacious                | Affectionate              | Devoted                   | Trusting                  | Frightened                |
+| 2rdinary                  | 10                        | Generous                  | Talkative                 | Favourable                | /oyal                     | Accepting                 | Startled                  |
+| Challenging               | 0                         | Indifferent               | Indifferent               | Indifferent               | Indifferent               | Indifferent               | Indifferent               |
+| Difficult                 | -10                       | Thrifty                   | /aconic                   | Disdainful                | Resentful                 | Suspicious                | Brave                     |
+| Hard                      | -20                       | Stingy                    | Brusque                   | Contemptful               | Disloyal                  | Sceptical                 | Courageous                |
+| 9ery Hard                 | -30                       | Abstemious                | Terse                     | Disgusted                 | Mutinous                  | Disbelieving              | Foolhardy                 |
+
+a player interacts with an NPC, every subsequent interaction with that particular NPC will start at the last Disposition level achieved in the previous interaction.
+
+The  Interaction  test  difficulty  is  further  modified  by  the final result of the test and how it affects an NPC. A friendly NPC will rarely do a favour for a player that will be harmful to the NPC, no matter how positively disposed he is. On the other hand, a hostile NPC may help a player out if there is a clear benefit in doing so. Table 7-2: Final Outcome of Interaction Test lists different results and their corresponding modifiers.
+
+When a player achieves success on an Interaction test, the NPC disposition toward the player is improved one step plus one step for every degree of success attained. Failing a test has the opposite effect, and the NPC's disposition worsens one step and an additional step for each degree of failure.
+
+For a player to get what he wants out of an NPC, the NPC's disposition  must  be  at  least  Indifferent.  An  Indifferent  NPC  will  do what the player wants 50 percent of the time if left unsupervised. Each step above Indifferent increases that likelihood by 10. If the NPC is supervised by the player, the chances that the player will get what he wants increase by 20.
+
+While Interaction Skills can help a character find the right thing to say,  Lore  skills  help  the  character  know  the  right way to say it, and the right person to say it to. Lore skills can function as 'etiquette' skills, imparting a character with knowledge regarding the correct forms of behaviour within a  specific  class,  community  or  organisation.  For  example, a  character  with  Common  Lore:  Imperial  Navy  will  know the correct way to address a Rear Admiral, and a character with  Scholastic  Lore:  Bureaucracy  will  know  what  palms to grease to expedite a request through official channels. A character may use his relevant Lore Skill numerous times in an interaction, but only once per piece of information needed. Failures cannot be retried, as the character either knows the information or doesn't. For example, a Rogue Trader fails a Common Lore: Imperial Navy roll to recognise an unknown unit insignia; no amount of thinking is going to change this result. The difficulty is set by the GM and is based on how common a piece of information might be. Refer to Table 7-3: Subject  Knowledge on  the  following  page  for  examples and difficulties.
+
+
+
+## Subpages
+- [Meta Endeavours](meta-endeavours.md)
+- [Background Endeavours](background-endeavours.md)
+
+*Source:* `Into the Storm, page 205`
