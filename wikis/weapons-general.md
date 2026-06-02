@@ -814,3 +814,14 @@ Mounted  on  a  longer  pole  grip  than  a  regular  hammer, warhammers  genera
 1 Grot operated Bigga Big Shoota Turret (Facing Left/Right/Rear, Range 400m (4 AUs), S/3/10, 2d10+10 I, Pen 5, Clip 1000, Reload -, Inaccurate, Unreliable, Twin-Linked)
 
 *Source:* `Battle Fleet of the Koronus, page 145`
+
+
+# Weapons
+
+
+
+All  vehicles  share  the  same  general  characteristics  in  their profiles, as listed below.
+
+
+
+*Source:* `Into the Storm, page 172`
