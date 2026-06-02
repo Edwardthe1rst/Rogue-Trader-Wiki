@@ -102,3 +102,20 @@ The Selenite can sustain life in hard [Vacuum](character-injury.md) for up to te
 Selenite suits common to Port Wander and Footfall are fitted with  impellor  units,  allowing  the  wearer  to  propel  himself through open space in zero or reduced gravity conditions with a Movement of 6 (they are not powerful enough to use in a normal gravity environment, however).
 
 *Source:* `Roguetrader Corerulebook, pages 140–142`
+
+
+# Gear
+
+
+
+Loi Metalworks is based on Landunder, and is a useful source for those seeking power weapons. They have centuries of experience in melding swords and other bladed weapons with the finest Adeptus Mechanicus power field generators, producing superior weapons that will serve as heirlooms for a Rogue Trader's family for generations. Even with the field disabled, the distinctive green-tinged blade is a match for most other close combat weapons. It is said that Loi keeps close ties to the Magos of the Lathes, and that Mechanicus Techpriests work with them as 'honoured overseers.'
+
+
+
+## Subpages
+- [Clothing](clothing.md)
+- [Drugs and Consumables](drugs-and-consumables.md)
+- [Tools](tools.md)
+- [The Exotic and the Alien](the-exotic-and-the-alien.md)
+
+*Source:* `Into the Storm, page 133`
