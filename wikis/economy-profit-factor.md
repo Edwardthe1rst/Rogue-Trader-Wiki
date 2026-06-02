@@ -45,3 +45,16 @@ Awards: These are a bonus that the GM gives the Explorers as a reward for their 
 For details on Awards see page 278 and for more details on Misfortunes see page 283.
 
 *Source:* `Roguetrader Corerulebook, page 271`
+
+
+# Profit Factor
+
+
+
+You are  pure,  either  lacking  psychic  powers  altogether,  or  possessing sufficient strength of soul and mind to be of use to the Imperium. In either case, long years of growing up amongst a family known for producing psykers have made you well-able to resist the power of the witch and the daemonic, and if you are a psyker yourself, your knowledge of psychic powers is all the more impressive. Cost: 100xp
+
+Effect: Gain the Resistance (Psychic Techniques) Talent. If the character is an Astropath-Transcendent, then he may purchase a Psychic Technique he meets all prerequisites for at its xp cost.
+
+
+
+*Source:* `Into the Storm, page 33`
