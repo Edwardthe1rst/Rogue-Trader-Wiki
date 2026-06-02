@@ -455,3 +455,12 @@ Few  forces  are  more  essential  to  the  everyday  lives  of humanity,  yet  
 Zero gravity is considered [Difficult Terrain](combat-special-circumstances.md), meaning that the movement of characters is halved while in it, and if they attempt to [Charge](rules-combat-overview.md) or [Run](rules-combat-overview.md), they must succeed with a Hard (-20) Agility Test or  drift  out  of  control (treat as [Falling](character-injury.md) [Prone](combat-special-circumstances.md)). Certain  factors  may  mitigate  this-a  Void  Born  character, for [Example](rules-tests.md), does not treat zero gravity as Difficult Terrain and  therefore  ignores  the  above  penalties.  Additionally,  a character beginning a movement action in zero gravity must be adjacent to a floor, wall, ceiling, or other secure object, so he has something to push off from.
 
 *Source:* `Roguetrader Corerulebook, pages 213–225`
+
+
+# Space Combat
+
+
+
+The  pilot  endeavours  to  keep  his  opponent  locked  in  his gunsight, even if it makes himself an easier target. The pilot makes an opposed Challenging (+0) Pilot Test ,  with  one opposing flyer. If he succeeds, and is able to end his movement so that his flyer is able to target that opponent, all shooting from his flyer against the opponent that round gains a +20 bonus. All shooting directed at the pilot's flyer from anyone gains a +10 bonus until the beginning of the pilot's next round.
+
+*Source:* `Into the Storm, page 176`
