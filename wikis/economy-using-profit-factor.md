@@ -1,0 +1,11 @@
+The  most  common  way  that  young  or  imprudent  Rogue Traders  abuse  their  wealth  is  by  spending  it  wildly  and without  regard  to  the  consequences.  While  it  is  true  that keeping up appearances-looking and acting the part of a dashing, well-heeled intergalactic tradesman in charge of a powerful shipping concern-is an important part of being that  dashing,  well-heeled  intergalactic  tradesman,  keeping things in perspective is also important. Not every trading ship needs gold-plated macrobatteries, and not every retinue needs to be dressed in the finest fabrics and rarest armour.
+
+Acquisition  Tests  aren't  used  for  typical  day-to-day  purchases, such as a meal or glass of amasec. Instead, they should be used for fine weapons, rare items, or equipping dozens or hundreds of men. The complication arises when too many Acquisition Tests are made in a single game session, and 'buying stuff ' takes the place of exploring and good roleplaying. To help remedy this situation, Game Masters have the option of imposing a series of  modifiers  to  multiple  Acquisition  tests  made  in  the  same session or night of gaming. These modifiers reflect the strain put on the Explorers' Profit Factor from these massive outlays of wealth, and are outlined in Table 7-8: Multiple Acquisition Test Modifiers. Once a player makes an Acquisition Test in  a  session  (successful  or  not),  every  subsequent  test by that player has a cumulative -10 modifier. This is on top of any modifiers already applied for an item or service's availability , quality and scale.
+
+An additional optional rule the GM can introduce is: if a player ever fails an Acquisition Test by more than five degrees, the player must roll on Table 9-41: Misfortunes to see if his reckless spending has permanently crippled his resources.
+
+The Game Master should have a good explanation for why the funds are unavailable. For example, a credit line has dried  up,  Grox  Futures  are  collapsing,  or  communications with  the  money  house  are  currently  down.  Aside  from being  potentially  embarrassing  for  everyone  involved,  a complication  such  as  this  could  be  a  good  opening  for  a side adventure or random encounter.
+
+
+
+*Source:* `Into the Storm, page 222`
