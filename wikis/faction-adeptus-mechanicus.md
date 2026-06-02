@@ -1,0 +1,5 @@
+The Halls of the Adeptus Mechanicus occupy a large, blisterlike extrusion of metal and sensor spines at the base of the station. Here is where the tech-priests conduct research into the  strange  objects  brought  out  of  the  Koronus  Expanse, and monitor the data sent from their many stations scattered throughout the solar system, only some of which are known to  the  Navy.  The  cavernous  interior  also  hosts  the  altar  to the Machine God, where hundreds of priests chant in binary rhythm  with  the  station's  cyclic  bass  rumbling.  The  Main Enginarium  is  located  not  far  from  the  Mechanicus  Hall, and  its  enormous  reactors  provide  power  for  the  station's various systems, station-keeping thrusters, weapons systems, shielding, life support, and more. Extensive backup systems are in place in case of emergencies. With so many demands on its limited capabilities, however, large power drains such as void shield activations cause lights to dim across the port.
+
+
+
+*Source:* `Into the Storm, page 241`
