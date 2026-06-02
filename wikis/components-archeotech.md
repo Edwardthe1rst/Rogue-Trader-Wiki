@@ -54,3 +54,75 @@ The True Path: When using a Warp Sextant, the Navigator receives a +20 bonus on 
 II: The Imperium's Sheild
 
 *Source:* `Battle Fleet of the Koronus, pages 41–43`
+
+
+# Archeotech Components
+
+## Table of Contents
+  - [Castellan Shield](#castellan-shield)
+  - [Castellan Shield Array](#castellan-shield-array)
+  - [Cogitator Interlink](#cogitator-interlink)
+  - [Energistic Conversion Matrix](#energistic-conversion-matrix)
+  - [Gyro-stabilisation Matrix](#gyro-stabilisation-matrix)
+  - [Staravar Laser Macrobattery](#staravar-laser-macrobattery)
+  - [Star-flare Lance](#star-flare-lance)
+
+
+
+Only the richest shipmasters can afford to devote so much space and resources to growing gardens aboard their vessel. Replenishing supplies: Double the time a ship may remain at  void  without  suffering  Crew  Population  or  Morale  loss. Increase Crew Population permanently by +2.
+
+## Castellan Shield
+
+For  some  traders,  trading  minerals  and  materials  is  not enough.  They  prefer  to  harvest  their  profits  directly. An  asteroid  mining  facility  consists  of  bays  of mining lighters, tractor fields, adamantine drills, vast  internal  refineries  and  stowage  bunkers for the minerals mined. A single ship can remain amongst an asteroid field for decades, accumulating a vast wealth in minerals. However, an asteroid mining facility dominates a starship.
+
+Mining Rig: An asteroid mining facility Component allows a vessel to conduct mining operations in an asteroid field (or similar location). This allows the vessel's crew to construct a Trade Endeavour based on those operations (see ROGUE TRADER page 277). When completing this Endeavour's objectives, the players earn an additional 200 Endeavour Points.
+
+## Castellan Shield Array
+
+Though all ships have a specific area set aside for the use of their Astropathic Choir, some ships have vast chambers specifically designed to amplify astropathic signals and boost the power and effectiveness of the ship's Astropath Transcendent.
+
+Psy-locus: When performing Astro-telepathy in this Component, an Astropath gains a +10 bonus to his Focus Power Test. While occupying this Component during Space Combat, any psychic powers the Astropath uses have their range increased by 5 VUs.## Cogitator Interlink
+
+Broadcast towers flood  all  frequencies  with  deafening  hymns  to  the God-Emperor, jamming communications and terrifying enemies. Heathen  or  renegade  ships  have  been  known  to  use  similar systems, though the nature of their 'hymns' is very different.
+
+Deafening: If this system is activated, all other ships must make a Difficult (-10) T ech Use T est in order to use vox or other broadcast communications while within 30 VUs of this vessel.
+
+Terrifying: When this system is activated, characters aboard this vessel gain +10 on all Intimidate Tests against all ships within 30 VUs.
+
+External: This  Component  does  not  require  hull  space. Although it is external, it can only be destroyed or damaged by a critical hit.
+
+## Energistic Conversion Matrix
+
+These artefacts from the Dark Age of Technology can greatly boost  the  effectiveness  of  the  starship  that  carries  them. As  stated  on  page  206  of ROGUE TRADER ,  all  Archeotech Components are only available  through  a  Complication  or Background Package that allows them, certain results on the Warrant Generation Path (see page 34), or if the GM makes them available over the course of the game.
+
+## Gyro-stabilisation Matrix
+
+Some of the oldest Imperial vessels are blessed with 'Castellan' class void shields. These shields are far superior to current void shields, and their multiple banks of fail-safe circuit breakers means they can remain up under far-greater stresses.
+
+Void Shield: This Component counts as a ship's Void Shield, giving the ship one void shield. 
+
+Fail-safes: Once per Strategic Round, during one opponent's Strategic  Turn,  the  ship's  Enginseer  Prime  may  make  a Difficult (-10) Tech-Use Test . This does not count as the Enginseer's Extended Action. If he succeeds, the ship doubles its  number  of  Void  Shields  for  the  duration  of  a  single opponent's Strategic Turn.
+
+† This must be used as a ship's Void Shield.
+
+## Staravar Laser Macrobattery
+
+Only a very few Imperial ships are blessed with 'Castellan' class void shields, and even fewer are ships of the line. These shields' multiple banks of fail-safe circuit breakers take up a great deal of room, but mean they can remain up under even more stress than a single Castellan Shield.
+
+Void  Shields: This  Component  counts  as  a  ship's  Void Shields, giving the ship two void shields. 
+
+Fail-safes: Once per Strategic Round, during one opponent's Strategic  Turn,  the  ship's  Enginseer  Prime  may  make  a Difficult (-10) Tech-Use Test . This does not count as the Enginseer's Extended Action. If he succeeds, the ship doubles its  number  of  Void  Shields  for  the  duration  of  a  single opponent's Strategic Turn.
+
+† This must be used as a ship's Void Shield.
+
+![image](../images/roguetrader_intothestorm_page_162_img_1.png)
+
+## Star-flare Lance
+
+Though the creation of true artificial intelligence is one of the  darkest  heresies  of  the  Adeptus  Mechanicus,  this  was not  always  so.  The  Men  of  Iron  were  the  most  infamous example of such technology, but the Dark Age of Technology generated  many  others.  The  cogitator  interlink  is  designed to amplify the starship's core cogitator, enhancing the ship's operations considerably.
+
+Sophisticated cogitation operation: This starship's Crew Rating gains a +5 bonus.
+
+
+
+*Source:* `Into the Storm, pages 161–162`
