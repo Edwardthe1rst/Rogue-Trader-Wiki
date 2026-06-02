@@ -7,3 +7,14 @@ Though the most prominent portion of [Fleet Base Metis](facility-fleet-base-meti
 The Navy is extremely cautious as to who may travel to Fleet Base Metis. However, several trusted Rogue Traders have been allowed to journey there, and even repair their ships and resupply. Almost always, these are ships operating with the authority of [Admiral](rank-admiral.md) Horne or his immediate subordinates, or equally powerful institutions such as The Inquisition.
 
 *Source:* `Battle Fleet of the Koronus, page 63`
+
+
+# Station Defences
+
+
+
+Numerous  docking  ports  line  the  edges  of  the  station, managing the off-loading of hundreds of ships, from small inter-system ships to gigantic mass conveyors. The docks are also  where  most  minor  overhaul  work  and  replenishments occur  as  ships  take  on  all  manner  of  provisions.  Here, overworked  Administratum  adepts  are  also  charged  with checking cargo, levying tariffs, and detecting contraband and proscribed goods; though as any smuggler will tell you, they are far from universally successful. A purse of Thrones works wonders in removing any bothersome questions amongst the dock officials.
+
+
+
+*Source:* `Into the Storm, page 240`
