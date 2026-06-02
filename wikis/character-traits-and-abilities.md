@@ -1,0 +1,57 @@
+## Common Skills
+
+'Ork Physiology is fascinating and terrifying in equal measure, demonstrating inhuman degrees of resilience to the point where they can withstand seemingly fatal wounds with little apparent long-term consequence. Indeed, Orks witnessed suffering fatal wounds in the midst of heavy fighting have often been observed again several days later, larger and stronger than they were before their injuries and with no sign of those wounds save for some largely superficial scarring.'
+
+-Genetor Aurelius Thoze, Adeptus Mechanicus Xenobiologist.
+
+'DOK! Me arm got shot off! Gimme a new'un!'
+
+-Wortgrod Mugskab, Ork Boy
+
+Orks  are  large,  broad  humanoid  creatures,  with  rough, thick  green  flesh  and  heavy  musculature.  The  average Ork stands  approximately  as  tall  as  a  human,  to  the top  of  the  back-an  Ork's  hunched  frame  means that the head  generally sits level with  the shoulders-and  weighs  roughly  60%  more due to thicker bone and muscle. However, the nature of Ork physiology means that a more aggressive, more successful Ork will grow in size, and some of the largest known examples stand as much as three metres tall and weigh approximately half a tonne if some reports can be believed.
+
+The Ork body is thick-set and ape-like, with long, thick arms,  ended  in  broad,  muscular  hands  with  thick  fingers ending in large, tough, sharp fingernails. The head, set in front of and between the bulky shoulders, is solid and bony, with a large protruding jaw, great yellowish tusks, a pair of beady, almost luminescent red eyes and a short, hard forehead. The mouth of an average Ork is almost big enough to fit an adult human head entirely  inside,  and  the  overall  appearance  of an Ork's face is one of a savage, largely unintelligent animal.
+
+Orks are, physiologically, not entirely animal. In fact, they're actually two creatures-the animal body, and the algal/fungal strain that saturates their blood and flesh. This algal symbiote provides the Orks with many of their most unusual traits. The Ork  body,  for  example,  is  insanely  resilient-wounds  that would  be  instantly  and  irreversibly  fatal  to  a  human  being may only incapacitate an Ork for a matter of hours, and even the traumatic experience of having a limb stitched back on (it doesn't even have to be the Ork's original limb) will only hinder an Ork for a day or so. Decapitation isn't immediately fatal, and heads can be re-attached up to half an hour after removal with no  lingering  side-effects.  The  rate  at  which  Ork  bodies  can heal themselves is quite astounding, and even Orks that seem dead may simply be rendered unconscious by their wounds, recuperating until they can awaken and slay the enemy.
+
+More significant  still  is  that  this  algal  component  of  their physiology serves as their reproductive system as well. Orks shed spores as they move, and unleash a great number of these spores upon death. Given the right conditions, these spores mature into other Greenskins-Squigs, Snotlings, Gretchin, and eventually other Orks. Consequently, battlegrounds where Orks have been encountered must be thoroughly cleansed in order to minimise the risk of re-infestation at a later date. This is seldom entirely successful, and many worlds which have never had any recorded Ork  invasion  are  known  to  have  periodic  Ork  infestations, perhaps resulting from conflicts predating the Imperium.
+
+This  reproductive  system  gives  rise  to  another  notable Ork trait: genetic knowledge. The ability to fight, to speak, and  in  the  cases  of  the  specialist  or  'Oddboy'  castes,  an understanding of science, technology, medicine or any of a number of other complex skills, are all hard-wired into an Ork's genetics, as natural and instinctive as breathing. Orks emerge from the ground almost entirely mature, with most of the skills they will ever require already present.
+
+Another disquieting side-effect of their reproductive system is the effect that the prolonged presence of Orks on a planet can have. In sufficient quantities, and if left to their own devices for long enough, Orkoid creatures (the collective term for Orks, Gretchin, Snotlings and all manner of Squigs) and  assorted  species  of  fungus  tend  to  spread  across  a planet's surface, usurping and overwhelming native flora and fauna in many cases, and gradually 'Orkiforming' a world. Thankfully,  the  process  has  only  been  observed  on  worlds dominated by Orks for long periods of time, but the threat of such contamination is not to be taken lightly.
+
+Their  physical  response  to  violence  is  also  of  note.  Astouched  upon  above,  an  Ork  at  war  will  grow  larger  and stronger as a matter of course. This is not merely an increase in physical fitness, but a physiological change-muscle mass increases,  and  the  skeletal  structure  grows  to  accommodate the  enhanced  musculature.  Even  more  significantly,  Orks preparing to challenge the leadership of another will undergo a  sudden  increase  in  strength  and  mass,  allowing  them  to more  effectively  challenge  their  erstwhile  leader.  As  Orks equate size with authority, this makes a degree of sense, but it remains unknown exactly how this process happens, though there  is  considerable  speculation  that  it  may  be  somehow psychic in nature. Certainly, Orks possess a strong (if diffuse and unusual) psychic presence that seems to grow stronger in the presence of other Orks.
+
+## 'Ard
+
+'Orkses is neva defeated in battle. If we win we win, if we die we die fightin' so it don't count. If we runz for it we don't lose eva, cos we can come back for annuver go, see!'
+
+- Common Ork saying
+
+If  Ork  physiology  makes  them  brutally  efficient  survivors, their psychology makes them extremely dangerous warriors. As noted previously, much of Ork knowledge is genetic in nature, the Orks themselves born with an understanding of how to fight, speak and perform a variety of other tasks useful to  their  society .  This  consequently  results  in  a  culture  that needs to spend very little time dealing with the practicalities of being a culture-everything they need is there for them naturally-and thus they can focus on what matters most to naturally-and thus they can focus on what matters most to them. And an Ork craves three things above all else: speed, noise, and a good fight.
+
+mayhem and thrill of battle and lamenting its end. This is, actually,  one  of  the  more  curious  things  about  the  Orks. Many warrior and predator cultures known in the galaxy take pleasure in the hunt or the kill, and prize the ability to do those things. Orks are alone in their lust for the fight, not the kill. They don't possess a true notion of victory or loss, because such things are meaningless to a creature whose idea of paradise is an eternity of battle. Y et, all this focus on warfare does not mean that Orks are fearless. Indeed, while the Ork mind views defeat differently than that of a human, it still recognises the need to flee from battle. The Orks themselves rationalise this by claiming that running away doesn't signify defeat, but instead just means that the Orks can come back later and try again.
+
+Removing the need to consider anything other than the desire to fight has an interesting effect on Ork culture as well. With violence so desirable and so easily found-a simple barroom brawl is a common pastime for Orks, as are a number of  other  brutal  activities-few  Orks  ever  really  want  for anything, save perhaps for an endless supply of foes and an eternity  of  battle.  This  simple  sense  of  fulfilment  pervades most of Ork society, with only those of particular ambition (who tend to end up as leaders of their species anyway) craving something more, and as a result, there is little discontent or strife  amongst  the  Orks.  Disputes  are  settled  swiftly  and effectively through bursts of spontaneous violence (the Orks themselves are sufficiently resilient that injuries are few and short-lived from such encounters), but broadly speaking Ork society is lacking in any societal ills. Certainly, Orks appear almost entirely immune to the corrupting influence of Chaos, and lack any of the difficulties with sedition or heresy that must be so brutally crushed in the Imperium.
+
+In  particular,  their  desire  for  violence  is  perhaps  their most defining psychological trait-Orks will fight anything, anywhere,  and  for  the  flimsiest  of  reasons,  savouring  the A strange facet of Ork psychology is their psychic potential. A strange facet of Ork psychology is their psychic potential. Largely  unconscious,  Orks  produce  a  high  level  of  psychic background noise which increases during periods of excitement. In  the  presence  of  other  Orks,  this  collective  noise  can  have strange effects. Most obvious is the way an Ork's
+
+## Made Fer Fightin'
+
+Much is made of the greenskins' talent for violence, but in my experience it that is not their greatest asset. The 6rk is, by reputation and by nature, an intimidating creature, threatening behaviour as natural to them as intrigue is to those of noble birth. 6rks understand the need for and methods of intimidation, and contrary to their common depiction, well understand when the threat of violence alone is sufficient. As enforcers they are all but peerless, and while too selfish to turn their prodigious resilience to the role of bodyguard©the concept of a leader needing the protection of others is an alien idea to their species in any case©their usefulness is not to be overlooked. That their services are cheap is an additional consideration, for what other mercenaries would be content with payment in the tools of their trade, the discarded teeth of their own kind, and the constant promise of violence&amp; © A. A.
+
+59
+
+59confidence and resolve are bolstered further by the presence of other Orks, making large groups difficult or even impossible to rout. A number of other effects have been speculated upon, some of which seem outlandish and entirely unlikely, but others are demonstrably true, such as the ability of Ork psykers (known as 'Weirdboyz') to draw on this powerful mass of psychic energy and  direct  it  as  a  weapon  in  its  own  right,  manifesting  the collective aggression of the Orks as blasts of lurid green energy or other strange effects.
+
+and subtle investigation. And, being aliens, their presence may not  be  tolerated  by  more  puritanical  characters  within  the campaign, creating complications there.
+
+If these factors and complications are properly considered by  the  GM  and  you  have  been  allowed  to  create  an  Ork Freebooter character, then the methods of character creation are similar to, but not identical to, those for human characters. In the following sections, the many  bizarre traits and natural abilities of an Ork are described in full, covering the matters discussed earlier in this chapter. After that, the Ork's
+
+characteristics will be determined-this is done in much the same way as determining the characteristics of a human character, but the basic values of an Ork will be wildly different.
+
+## Make It Work
+
+The  following  traits  and abilities  are  common  to all Ork characters. All Ork Player Characters begin with these traits and abilities.
+
+*Source:* `Battle Fleet of the Koronus, pages 59–61`
