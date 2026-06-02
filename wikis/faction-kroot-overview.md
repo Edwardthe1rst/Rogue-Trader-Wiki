@@ -16,3 +16,36 @@ Warspheres  are  exceptionally  tough  and  able  to  withstand enormous  punish
 - [Kroot Warsphere](kroot-warsphere.md)
 
 *Source:* `Battle Fleet of the Koronus, page 102`
+
+
+# Kroot
+
+
+
+Ork and Kroot  are  both  xenos  races-that  is  to  say,  nonhuman. The relationship between xenos races and humanity is strained at best, outright hostile at worst, and xenos themselves can think and behave in ways truly alien to humanity. Both races are available as a Career choice when creating a new Character. However, before doing so, the player should talk with his GM. At the very least, the GM should know there will be a xenos character in his game, so that he can take it into account. The GM may even ask the player not to play a xenos character, as it might disrupt plans he has for the game. In this case, the player and the GM should work to come to a mutually acceptable solution.
+
+For the most part, xenos characters work in the same way as human characters. They gain experience, which they can spend on their advance schemes. They gain Talents and Skills, just like human characters. However, in other ways they differ. One important difference is that xenos characters do not use the Origin Path in Rogue Trader. The Origin Path is designed to reflect human experiences, and does not apply to xenos.
+
+Instead,  xenos  characters  have  different  choices  detailing their backgrounds, as found in their individual entries.
+
+In  addition,  all  xenos  characters  have  several  Traits  that apply to them, detailed below.
+
+
+
+## Subpages
+- [Alien Biology](alien-biology.md)
+- [Kroot Player Characters](kroot-player-characters.md)
+- [The Kroot Race](the-kroot-race.md)
+- [Kroot Traits](kroot-traits.md)
+- [Kroot Kindreds](kroot-kindreds.md)
+- [An Alien Mind](an-alien-mind.md)
+- [Kroot Gender](kroot-gender.md)
+- [Kroot and Corruption](kroot-and-corruption.md)
+- [Kroot and Insanity](kroot-and-insanity.md)
+- [Stalker](stalker.md)
+- [Kroot Characteristics](kroot-characteristics.md)
+- [Kroot Talents](kroot-talents.md)
+- [Kroot Weapons](kroot-weapons.md)
+- [Kroot Mercenary](kroot-mercenary.md)
+
+*Source:* `Into the Storm, page 47`
