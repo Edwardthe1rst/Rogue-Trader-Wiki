@@ -1,0 +1,3 @@
+In a vehicle, there are countless potential manoeuvres a skilled and creative driver could perform. Manoeuvre is a 'catch-all' manoeuvre  designed  to  represent  anything  a  driver  may invent.  All  Manoeuvres must be approved by the GM (and in general, the GM should use discretion when inventing his own manoeuvres), and have a base difficulty of Challenging (+0) ,  which can be modified depending on the complexity of  the  Manoeuvre.  Potential  Manoeuvres  include  driving a  ground  vehicle  under  a  low-hanging  arch,  or  giving  a skimmer an extra boost of power to fly over a deep chasm.
+
+*Source:* `Into the Storm, page 174`
