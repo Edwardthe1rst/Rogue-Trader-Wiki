@@ -1,0 +1,23 @@
+## Subpages
+- [Taking an Alternate Career Rank](taking-an-alternate-career-rank.md)
+- [Elite Advances From Missed Career Ranks](elite-advances-from-missed-career-ranks.md)
+- [Example](example.md)
+- [Career Progression](career-progression.md)
+- [Example](example.md)
+- [Acquisitionist](acquisitionist.md)
+- [Augmenticist](augmenticist.md)
+- [Calixian Privateer](calixian-privateer.md)
+- [Drusian Adherent](drusian-adherent.md)
+- [Flight Marshal](flight-marshal.md)
+- [Genetor](genetor.md)
+- [Gland Warrior](gland-warrior.md)
+- [Kroot Shaper](kroot-shaper.md)
+- [Legend of the Expanse](legend-of-the-expanse.md)
+- [Navis Scion](navis-scion.md)
+- [Ork Kommando](ork-kommando.md)
+- [Ork Mekboy](ork-mekboy.md)
+- [Transubstantial Initiate](transubstantial-initiate.md)
+- [Torchbearer](torchbearer.md)
+- [Xenographer](xenographer.md)
+
+*Source:* `Into the Storm, page 66`
