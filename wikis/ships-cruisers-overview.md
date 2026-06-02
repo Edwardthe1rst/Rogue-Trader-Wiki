@@ -3,3 +3,24 @@ At  this  point,  the  ability  to  unleash  a  true  broadside  volley becomes 
 
 
 *Source:* `Battle Fleet of the Koronus, page 117`
+
+
+# Cruisers
+
+
+
+Dimensions: 1.8 km long, .3 km abeam at fins
+
+Mass: 6 megatonnes approx
+
+Crew: 25000 crew, approx.
+
+Accel: 4.4 gravities max. sustainable
+
+## Tyrant-class Cruiser
+
+Though not as powerful as full cruisers, light cruisers are often more manoeuvrable, or equipped for long range reconnaissance.
+
+
+
+*Source:* `Into the Storm, page 153`
