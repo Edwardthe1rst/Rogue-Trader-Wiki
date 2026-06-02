@@ -108,3 +108,19 @@ Specially coded vox receivers are integrated into the weapon's trigger mechanism
 Upgrade: Any  non-[Primitive](weapons-general.md)  Pistol,  Basic,  Grenade,  or Heavy weapon.
 
 *Source:* `Roguetrader Corerulebook, pages 134–136`
+
+
+# Weapon Upgrades
+
+
+
+Longer-length force weapons typically take the form of a staff, and they can be used as a weapon in regular combat. Some are fashioned to appear as a simple walking staff, only giving away  their  real  function  as  psychic  powers  are  channelled through them. Force Staffs also act as a Psy-Focus (see the ROGUE TRADER Core Rulebook, page 146). R Core Rulebook, page 146). R
+
+
+
+## Subpages
+- [Calamity Vents](calamity-vents.md)
+- [Exterminator Cartridge](exterminator-cartridge.md)
+- [Tox Dispenser](tox-dispenser.md)
+
+*Source:* `Into the Storm, page 127`
