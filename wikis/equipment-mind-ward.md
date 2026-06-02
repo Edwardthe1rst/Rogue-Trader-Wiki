@@ -1,0 +1,7 @@
+The  powers  presented  below  are  primarily  intended for  the  Astropath  career.  However,  any  character that  is  capable  of  making  use  of  psychic  powers can  (with  the  Game  Master's  permission)  make  use of  these  powers  as  well.  Because  these  powers  are designed primarily for use by an Astropath, they fall into  one  of  the  three  psychic  disciplines  presented in  the  Rogue  Trader  Core  Rulebook:  Telepathy, Divination, and Telekinesis.
+
+determine how far away he is from that beacon as if it were a fixed point in space. The maximum range that he can perceive the beacon is equal to 5km x Psy Rating. However, due to the fact that they can sense psychic anomalies further away than normal psykers, Navigators may be given the location of the beacon. Should the Navigator gain at least one degree of success on a Difficult (-10) Psyniscience Test , then he is able to locate the beacon within a number of light years equal to the psyker's Psy Rating. By knowing the location of the beacon (and being able to sense it) a Navigator who is unable to locate the Astronomican can make a Very Hard (-30) Navigation (Warp) Test instead  of  the  normal  test required to chart a successful course. The beacon can become obscured by warp storms or eddies, or even destroyed, per the Game Master's discretion. This power may not be used at the Fettered Psychic Strength.
+
+
+
+*Source:* `Into the Storm, page 194`
