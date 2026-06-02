@@ -207,3 +207,124 @@ Ultimately , it is up to the GM to decide when the Explorers should make Upkeep 
 Herodor sends a company of armsmen into battle during a vicious boarding action in the deeps of the Koronus Passage. Because of the ferocity of the fighting, the GM decides that once the battle is over the Explorer will need to make an Upkeep Test to see what is left of his men.
 
 *Source:* `Roguetrader Corerulebook, pages 272–277`
+
+
+# Acquisition
+
+## Table of Contents
+  - [Reward](#reward)
+  - [Intrigue](#intrigue)
+  - [Administratum Trade Mandate](#administratum-trade-mandate)
+  - [Ministorum Bequest](#ministorum-bequest)
+  - [Prize of War](#prize-of-war)
+  - [Blackmail](#blackmail)
+  - [Exile](#exile)
+  - [Sanction](#sanction)
+
+
+
+A Rogue Trader dynasty might fall upon hard times for a wide range  of  reasons,  from  disaster  to  incompetence,  and  the  transition from stable to struggling might be sudden and unanticipated if it is due to external factors. Perhaps the most common reason for a dynasty to find itself in such straits is through the activities of its rivals, particularly if these have found common cause and determined to ruin the fortunes of their enemy .
+
+Another reason a House might find itself struggling is when it comes to rely too heavily on a particular field of exploitation or revenue, only to find that resource has suddenly dried up. It is not uncommon for Rogue Traders to open up exclusive trade routes into distant regions, but if those regions should fall to alien invasion or a host of other perils, the source of so many riches might disappear overnight. If the dynasty has invested too heavily in the operation, as might be the case with a smaller or newly established House, then all will be lost. Nevertheless, Rogue  Traders  are  uniquely  optimistic  individuals,  even  in the face of the myriad horrors and misfortunes of the galaxy. Many are at their best when faced with a nigh insurmountable challenge-some would have it no other way.
+
+Ship Points: 6
+
+Profit Factor: 4
+
+## Reward
+
+Stability  is  a  luxury  rarely  afforded  to  most  Rogue  Trader Houses, and one that most are poorly disposed to suffer long. For many Rogue Traders, stability is a byword for stagnation or resting on one's laurels. As most Rogue Traders are naturally inclined to risk taking, few find their fortunes stable for long.
+
+There are some Houses however that come to attain such a state. These wealthy and powerful Houses appear capable of absorbing almost any loss while still generating astronomical profits. These are in the main the very oldest of the dynasties, those whose risks are spread out across a vast web of investment and patronage and for whom a disastrous expedition that might bankrupt a smaller, less well established House is offset by a dozen other, more successful and less risk-laden undertakings.
+
+Ship Points: 8
+
+Profit Factor: 6
+
+## Intrigue
+
+Most  Rogue  Trader  Houses  undergo  significant  fluctuations in  their  fortunes,  and  a  firm  hand  on  the  tiller  is  required  to safely navigate the peaks and troughs. A dynasty said to be in the ascendant enjoys an upturn in its fortunes and an increase in its influence and prestige. Such a house proves itself a worthy investment to any who would join it in its endeavours, and its head will have little difficulty in attracting allies and backers.
+
+The only real problem a Rogue Trader in such a position may find is that of jealous rivals. Few dynasties survive long without attracting the ire of their peers, whether they become engaged in bitter trade wars or actually exchange broadsides out in the void. A successful House may find its position coveted, with hidden hands at work against it. The most successful Rogue Traders are those who learn to anticipate, and deal with such enemies before the fortunes of their House can be affected.
+
+Ship Points:
+
+10
+
+Profit Factor: 8
+
+## Administratum Trade Mandate
+
+Often only applicable to a newly created Rogue Trader House, the term 'rising star' is used to describe a dynasty most definitely on the up. The bearer of the Warrant may be cresting a wave of success and influence having recently been granted the Warrant or bequeathed the trappings, such as a fleet and military assets that may have accompanied it. Many eyes will be watching the dynasty, some with hopeful expectation, others with jealousy. A great weight of responsibility rests on the shoulders of the bearer, and they may have a great deal to prove to earn the title 'Rogue Trader' in the eyes of the Imperium and their peers.
+
+Alternately, it is possible that the House is more established, but perhaps thanks to a succession in leadership is enjoying something  of  a  resurgence  in  its  fortunes.  Perhaps  an  old, ineffectual  or  outright  incompetent  patriarch  has  been  replaced with a younger, more dynamic progeny. Many decades, even centuries of stagnation may have been cast off as the dynasty looks forward to a new era of success and prosperity.
+
+Ship Points:
+
+12
+
+Profit Factor:
+
+10## Ministorum Bequest
+
+There are many ways in which your Rogue Trader Dynasty might have come to be granted its Warrant of Trade, and in many cases the circumstances of that granting will affect the character of your dynasty and how you and all your servants are viewed by other institutions of the Imperium.
+
+## Prize of War
+
+The most coveted of Rogue Trader Warrants are those that have  been  granted  in  genuine  recognition  of  great  deeds performed in service to the Imperium. Often, such a reward is not consciously sought and as such may come as a surprise to the recipient. A Warrant of Trade granted in this manner will be gifted to the recipient in a lavish ceremony, attended by the great and the good of the Imperium's highest offices. Many great men and women will attend, often in the hope that some of the glory and prestige will rub off on themselves. The  recipient  is  likely  to  have  gathered  about  them  many powerful allies who others wish to be associated with-some might  even  have  forged  connections  with  Space  Marine Chapters, sector lords, Admirals or Inquisitors.
+
+The deeds for which a Warrant of Trade will be rewarded are many and varied, and there are no set definitions or conditions set. Military service is a common route by which such Warrants are gifted, but so to is mercantile or political success.
+
+There  is  a  darker  side  to  a  Warrant  of  Trade  rewarded for such deeds however. The sponsor of the granting-the individual who lobbied the powers that be for the recipient to be rewarded in such a manner-will often expect some form of recompense, some favour that might not be called in for many decades. But called in it will be, and almost certainly at the most inconvenient time for the Rogue Trader.
+
+Ship Points:
+
+16
+
+Profit Factor:
+
+2
+
+## Blackmail
+
+While it is possible for a Warrant of Trade to change hands through overt aggression, a change in title is actually more likely to occur through underhanded methods. Assassination of varying sorts is not uncommon, and neither is fraud, but the most common of such methods is outright bribery.
+
+This might occur when a Rogue Trader has overstepped the limits of his authority , and a rival garners sufficient evidence of the transgression that the Imperium would be forced to censure him  were  such  evidence  to  be  presented  to  a  high  enough authority . Such crimes are most likely to include trafficking with alien  empires  forbidden even to Rogue Traders, or dealing in goods tainted by the Ruinous Powers. The issue might not even be something considered a crime, but rather evidence of political machinations against more powerful individuals and institutions.
+
+Perhaps  worst  of  all,  a  powerful  Rogue  Trader  might  be accused  of  seeking  to  establish  his  own  private  empire beyond the Imperium's borders, secede from the Rule of the Emperor. Many Rogue Traders have tried to do so, most eventually being brought to justice by the Imperium's forces.
+
+In such a case, a rival might take power of an existing Warrant of Trade and all of the assets and rights associated with it. A new line is established and the old one slower dissolved until little or nothing of the former dynasty remains. No one knows how many Rogue Trader Houses have been established in this manner,  but  no  doubt  a  significant  number  of  Warrants  have changed hands many times throughout the millennia.
+
+Ship Points:
+
+12
+
+Profit Factor:
+
+2
+
+## Exile
+
+A Trade Mandate is an example of one of countless numbers of administrative instruments employed by the Adeptus Terra. It is an instrument of strategy, by which the division's policies for the managing of the unmanageable are drawn up. By way of  a  myriad  of  utterly  incomprehensible  cogitations,  vast armies of scribes and factors plot the needs and the means of the Imperium's worlds, and attempt to allocate resources in such a way as to allow future generations to continue their work. Such a process has no meaning or function, and has long since become an end itself, the worlds of the Imperium merely carrying on as before regardless.
+
+The Trade Mandate is a product of this system. In such a case, the cogitations have determined that at such and such a date, in such and such a region, the efforts and services of a Rogue Trader House will be required in order to steer the region's fortunes  or  to  expand  it  borders  in  response  to  a  particular threat. The date at which the Mandate is to be granted might be many centuries in the future, and so entire armies of scribes will spend their whole lives selecting the eventual recipient of the Mandate, even to the extent of determining that an Imperial Servant not yet even born is to receive it.
+
+Ship Points:
+
+10
+
+Profit Factor: 4
+
+## Sanction
+
+The Ecclesiarchy does not hold the power to grant a Warrant of Trade, for that privilege ultimately lies with the Adeptus Terra and the High Lords, but, in common with many of the Imperium's highest institutions, it does have great influence in the matter. Many of the crusades launched by the Imperium against recidivist systems or vile aliens are thanks to the fiery oratory  of  the  Ecclesiarchy's  Confessors  and  Redemptory Priests. Such individuals preach war and redemption across dozens  of  worlds,  igniting  the  zealous  passions  of  the Imperium's subjects until vast rallies are held where millions of  would-be martyrs call for  the  preacher's  demands  to  be granted and war to be taken to the enemy.
+
+Though  the  preachers  utilise  simplistic,  even  crude methods to gain the support of the masses, they are highly adept at the far subtler ways of ensuring their voice is heard. Even  while  the  confessor  preaches  hate  and  bloodshed to  the  masses,  his  agents  move  amongst  the  Imperium's institutions, making promises of great favour and wealth to those who aid them, and making veiled threats to those who seek to obstruct them. One such promise the adepts might  issue  is  the  granting  of  a  Warrant  of  Trade,  theconfessor's allies ensuring that certain individuals with the power to grant such a reward are spoken to, in return for certain favours being performed.
+
+Ship Points: 8
+
+Profit Factor: 6
+
+
+
+*Source:* `Into the Storm, pages 38–39`
