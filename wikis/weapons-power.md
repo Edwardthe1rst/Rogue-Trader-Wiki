@@ -1,0 +1,56 @@
+## Power Discus
+
+Worn like regular knuckle-dusters, each resembles a thick band of insulating leather with large metal knobs above each finger. On impact it administers a violent electrical shock to the target.| Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons         | Table 3-4: Melee Weapons   | Table 3-4: Melee Weapons   |
+|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------------|----------------------------|----------------------------|
+| Primitive Weapons          | Primitive Weapons          | Primitive Weapons          | Primitive Weapons          | Primitive Weapons          | Primitive Weapons                | Primitive Weapons          | Primitive Weapons          |
+| Name                       | Class                      | Range                      | Dam                        | Pen                        | Special                          | Wt                         | Availability               |
+| Combat Shield              | Melee                      | ²                          | 1d5 I                      | 0                          | Primitive, Defensive             | 1 kg                       | Common                     |
+| Falchion                   | Melee                      | ²                          | 1d5 3 R                    | 0                          | Primitive                        | 2 kg                       | Average                    |
+| /acusta Hammer             | Melee                      | ²                          | 1d10 2 I                   | 0                          | Primitive                        | 5 kg                       | Average                    |
+| Memory Wire                | Melee                      | 2m                         | 1d5-1 I                    | 0                          | Primitive                        | 1 kg                       | Rare                       |
+| Parrying Dagger            | Melee                      | ²                          | 1d5 R                      | 0                          | Defensive, Primitive             | 0.5 kg                     | Average                    |
+| Swordstick Cane            | Melee                      | ²                          | 1d10 R                     | 0                          | Balanced, Primitive              | 2 kg                       | Scarce                     |
+| Chain Weapons              | Chain Weapons              | Chain Weapons              | Chain Weapons              | Chain Weapons              | Chain Weapons                    | Chain Weapons              | Chain Weapons              |
+| Name                       | Class                      | Range                      | Dam                        | Pen                        | Special                          | Wt                         | Availability               |
+| Crimson Crown              | Thrown                     | SBx4                       | 1d10 2 R                   | 2                          | Tearing                          | 0.5 kg                     | 9ery Rare                  |
+| Double-edged Chainsword    | Melee                      | ²                          | 1d10 5 R                   | 2                          | Tearing                          | 12 g                       | Average                    |
+| Drusian Chainsword         | Melee                      | ²                          | 1d10 2 R                   | 2                          | Tearing, Balanced                | 7 kg                       | Average                    |
+| Power Weapons              | Power Weapons              | Power Weapons              | Power Weapons              | Power Weapons              | Power Weapons                    | Power Weapons              | Power Weapons              |
+| Name                       | Class                      | Range                      | Dam                        | Pen                        | Special                          | Wt                         | Availability               |
+| Burning Blade              | Melee                      | ²                          | 1d10 5 E                   | 4                          | Power Field, Balanced            | 3 kg                       | Extremely Rare             |
+| /oi Pattern Power Axe      | Melee                      | ²                          | 1d10 7 E                   | 9                          | Power Field, 8nbalanced          | 9 kg                       | Extremely Rare             |
+| Power Discus               | Thrown                     | SBx4                       | 1d10 4 E                   | 5                          | Power Field                      | .2 kg                      | Extremely Rare             |
+| Thunder Hammer             | Melee                      | ²                          | 2d10 4 E                   | 10                         | Power Field, 8nwieldy            | 15 kg                      | 9ery Rare                  |
+| Shock Weapons              | Shock Weapons              | Shock Weapons              | Shock Weapons              | Shock Weapons              | Shock Weapons                    | Shock Weapons              | Shock Weapons              |
+| Name                       | Class                      | Range                      | Dam                        | Pen                        | Special                          | Wt                         | Availability               |
+| Shock .nuckles             | Melee                      | ²                          | 1d10 I                     | 0                          | Shocking                         | 1 kg                       | Scarce                     |
+| Neural Whip                | Melee                      | 3m                         | 1d10 1 R                   | 0                          | Flexible, Shocking               | 4 kg                       | Rare                       |
+| Shock Stars                | Thrown                     | SBx3                       | 1d10 I                     | 0                          | Shocking                         | .2 kg                      | Rare                       |
+| Suppression Shield         | Melee                      | ²                          | 1d10 E                     | 0                          | Defensive, Recharge, Shocking    | 5 kg                       | Rare                       |
+| Exotic Melee Weapons       | Exotic Melee Weapons       | Exotic Melee Weapons       | Exotic Melee Weapons       | Exotic Melee Weapons       | Exotic Melee Weapons             | Exotic Melee Weapons       | Exotic Melee Weapons       |
+| Name                       | Class                      | Range                      | Dam                        | Pen                        | Special                          | Wt                         | Availability               |
+| Agoni]er                   | Melee                      | ²                          | 1d10 3 E                   | 6                          | Tearing, Shocking                | 8 kg                       | 9ery Rare                  |
+| Egerian Shard Glaive       | Melee                      | ²                          | 1d10 4 R                   | 2                          | Tearing, Toxic                   | 4 kg                       | Extremely Rare             |
+| Eldar Powersword           | Melee                      | ²                          | 1d10 4 E                   | 8                          | Power Field, Balanced            | 2 kg                       | Near 8nique                |
+| Forearm Powerblade         | Melee                      | ²                          | 1d10 1 E                   | 4                          | Power Field, Balanced, Defensive | 1.5 kg                     | 9ery Rare                  |
+| Galthite /acerator         | Melee                      | ²                          | 1d10 6 R                   | 6                          | Tearing                          | 1 kg                       | Near 8nique                |
+| Inertial Hammer            | Melee                      | ²                          | 1d10 7 I                   | 3                          | 8nwieldy                         | 4 kg                       | Near 8nique                |
+| Macro Hammer               | Melee                      | ²                          | 1d10 7 E                   | 10                         | Power Field                      | 8 kg                       | Extremely Rare             |
+| Null Rod                   | Melee                      | ²                          | 1d10 5 E                   | 4                          | Power Field                      | 3 kg                       | Near 8nique                |
+| Soft Sword                 | Melee                      | ²                          | 1d10 R                     | 2                          | Balanced                         | 1.5 kg                     | Rare                       |
+
+## Loi-pattern Burning Blade
+
+These  tiny  metal  throwing  discs  contain  small  power  cells as well as the usual sharpened blades, imbuing each with a powerful  electrical  charge.  The  damage  they  do  from  the lacerating strike is compounded by the incapacitating shock administered on contact.
+
+## Loi-pattern Power Axe
+
+Suppression shields are common equipment for the Adeptus Arbites,  though  such  is  their  effectiveness  that  a  host  of other  organisations  and  individuals  use  them  as  well.  The suppression shield is both a bulwark and a weapon, a heavy slab of ceramite large enough for the wielder to take cover behind.  Each  has  a  built-in  arc-lumin  at  the  top,  and  a powerful  shock-plate  in  the  shield's  centre.  If  the  wielder strikes with the shield, he can discharge the shock-plate on impact, delivering a powerful electrical blow.
+
+Suppression  shields  have  the  Recharge  quality ,  since  the shock-plate  takes  time  to  build  to  dangerous  levels.  It  can still  be  used  as  a  weapon while it is recharging, however, but during those rounds it loses the Shocking quality and gains the Primitive quality . A suppression shield requires one hand to use, and provides +4 APs to that arm and the torso of the wielder.
+
+Tarsus-pattern suppression shields are also designed with lock-grips on the upper corners. These allow a character to fire one basic class weapon with one hand without penalty.## Mezoa-pattern Thunder Hammer
+
+Power  weapons  surround  their  blades  in  a  disruptive  field of  crackling  energy,  amplifying  their  destructive  force  far beyond what a simple melee weapon can do. To use power weapons the character must have the Melee Weapon Training (Power)  Talent,  or  the  Thrown  Weapon  Training  (Power) Talent, depending on the weapon.
+
+*Source:* `Battle Fleet of the Koronus, pages 123–125`
